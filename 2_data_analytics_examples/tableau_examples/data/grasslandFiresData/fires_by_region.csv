@@ -1,0 +1,76 @@
+"Community safety and social inclusion > Community safety > Fire incidents > Fires and false alarms > Fires by Local Authority and motive"
+"Fires by Local Authority and motive"
+
+Filters:
+Grassland marker: All fires
+Motive: All Motives
+Type of fires: All Fires
+
+"","","","2009-10 (2)","2010-11 ","2011-12 ","2012-13 ","2013-14 ","2014-15 ","2015-16 ","2016-17 ","2017-18 ","2018-19 ","2019-20 (3)","2020-21 (4)"
+"Wales ","","",19152,20688,16467,11438,13169,11650,12103,10742,11023,12911,10587,10328
+"Wales ","Economic Action Plan area: north Wales (1)","",3385,3301,3187,2349,2416,2243,2135,2009,2029,2280,1950,1770
+"","Economic Action Plan area: north Wales (1)","Isle of Anglesey ",357,356,297,206,283,239,211,168,184,246,188,174
+"","","Gwynedd ",822,834,705,474,488,480,440,413,432,512,402,364
+"","","Conwy ",559,537,449,326,382,314,320,283,293,337,320,285
+"","","Denbighshire ",415,366,384,305,315,275,256,258,255,260,232,231
+"","","Flintshire ",624,568,570,442,438,415,396,408,381,434,342,338
+"","","Wrexham ",608,640,782,596,510,520,512,479,484,491,466,378
+"","Economic Action Plan area: mid and south west Wales (1)","",5064,5617,4517,3245,3912,3490,3388,2932,3197,3730,3151,3073
+"","Economic Action Plan area: mid and south west Wales (1)","Powys ",549,660,569,429,532,416,462,371,457,416,353,362
+"","","Ceredigion ",257,281,241,198,225,235,198,190,173,228,191,172
+"","","Pembrokeshire ",481,508,518,386,401,370,341,312,342,361,324,336
+"","","Carmarthenshire ",744,751,699,559,612,630,557,508,527,640,530,543
+"","","Swansea ",1941,2067,1559,1061,1384,1203,1106,979,1092,1356,1144,1077
+"","","Neath Port Talbot ",1092,1350,931,612,758,636,724,572,606,729,609,583
+"","Economic Action Plan area: south east Wales (1)","",10700,11770,8762,5844,6841,5915,6580,5801,5797,6901,5486,5485
+"","Economic Action Plan area: south east Wales (1)","Bridgend ",842,989,720,583,589,457,578,425,474,556,548,512
+"","","Vale of Glamorgan ",515,520,402,291,351,282,304,351,297,322,283,354
+"","","Cardiff ",1846,1785,1416,957,1144,1039,1005,1002,1110,1163,964,1001
+"","","Rhondda Cynon Taf ",2067,2494,1719,1085,1347,1091,1288,899,1006,1363,945,1015
+"","","Merthyr Tydfil ",736,857,642,398,448,393,432,304,286,374,276,288
+"","","Caerphilly ",1499,1814,1232,769,935,748,909,803,818,1057,786,746
+"","","Blaenau Gwent ",855,971,691,434,534,586,564,504,448,568,357,392
+"","","Torfaen ",650,691,521,386,486,363,437,379,308,371,341,312
+"","","Monmouthshire ",396,367,296,218,249,213,209,200,184,257,192,189
+"","","Newport ",1294,1282,1123,723,758,743,854,934,866,870,794,676
+
+
+
+Footnotes:
+"1","These regional totals are created by summing the Local Authroities featured in this table. The Local authority is based on the grid reference provided and some inaccuracies in the recording of the location are possible. For this reason totals shown here may not match those reported elsewhere."
+"2","Since April 2009, data have been collected via the Incident Recording System (IRS). This has replaced the previous FDR paper forms and may cause an increase in the reporting of some categories of fire from 2009-10 onwards."
+"3","Revised data."
+"4","Provisional data."
+Metadata:
+"Title","Fires by Local Authority and motive"
+"Last update","September 2021"
+"Next update","August 2022"
+"Publishing organisation","Welsh Government"
+"Source 1","Fire incident recording system, Home Office"
+"Lowest level of geographical disaggregation","Local authorities"
+"Geographical coverage","Local authorities"
+"Languages covered","English and Welsh"
+"Data licensing","You may use and re-use this data free of charge in any format or medium, under the terms of the Open Government License - see http://www.nationalarchives.gov.uk/doc/open-government-licence"
+"General description","Since 2009-10 data have been extracted from the Incident Recording System (IRS). This is a live system and consequently it is possible that data extracted at a different time may not match the figures in this table. For instance the data published in the Performance Indicator tables are extracted at a different time and so may not match exactly those presented here.
+2009-10 data were extracted from IRS in May 2011.
+2010-11 data were extracted from IRS in May 2012.
+2011-12 data were extracted from IRS in May 2013.
+2012-13 data were extracted from IRS in May 2014.
+2013-14 data were extracted from IRSin June 2015.
+2014-15 data were extracted from IRS in July 2016.
+2015-16 data were extracted from IRS in July 2017.
+2016-17 data were extracted from IRS in July 2018.
+2017-18 data were extracted from IRS in July 2019.
+2018-19 data were extracted from IRS in September 2020
+2019-20 and 2020-21 data were extracted from IRS in August 2021.
+2020-21 data are currently provisional and will be updated August 2022.
+Source: The Home Office
+Contact: stats.inclusion@gov.wales"
+"Data collection and calculation","Data were collected via the Incident Recording System (IRS)."
+"Data reference periods","Financial Years 2009-10 to 2020-21."
+"Rounding applied","None"
+"Revisions information","Revisions are marked with an (r). The most recent year shown is currently provisional and may be revised when the table is next updated."
+"Statistical quality","Since 2009-10 data have been extracted from the Incident Recording System (IRS). This is a live system and consequently it is possible that data extracted at a different time may not match the figures in this table. For instance the data published in the Performance Indicator tables are extracted in July and so are unlikely to match exactly those presented here."
+"Weblinks","Data quality report.
+http://gov.wales/statistics-and-research/fire-statistics/?lang=en#/statistics-and-research/fire-statistics/fire-statistics-quality-report/?lang=en"
+"Keywords","Fires, Local Authorities, Accidental, Deliberate"
