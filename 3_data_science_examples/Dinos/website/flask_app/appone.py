@@ -6,14 +6,26 @@ dinosaurs = [
     {
         'name': 'velociraptor',
         'diet': 'carnivorous',
+        'imageName': 'static/velociraptor.png'
+    },
+    {
+        'name': 'aardonyx',
+        'diet': 'herbivorous',
+        'imageName': 'static/aardonyx.jpeg'
+    },
+    {
+        'name': 'abelisaurus',
+        'diet': 'herbivorous',
+        'imageName': 'static/abelisaurus.jpeg'
     }
+
 ]
 
 
 @app.route("/")
 @app.route("/home")
 def home():
-    return render_template('home')
+    return render_template('home.html', dinosaurs=dinosaurs)
 
 
 def dinosaur():
