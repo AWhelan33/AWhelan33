@@ -1,10 +1,11 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Dinosaur Recommendations</title>
-    </head>
-        <body>
-            <h1>Dinosaur Recommendation Engine</h1>
-        </body>
-   
-</html>
+{% extends 'layout.html' %}
+    {% block content %}
+        {% for dinosaur in dinosaurs %}
+        <div class="card">
+            <img src="{{ dinosaur.imageName }}" alt={{ dinosaur.name }} class="img-thumbnail">
+            <div class="card-body">
+              <h5 class="card-title">{{ dinosaur.name }}</h5>
+            </div>
+        </div>
+        {% endfor %}
+    {% endblock content %}
