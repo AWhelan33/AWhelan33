@@ -1,25 +1,6 @@
 from flask import Flask, render_template
-
+from dinosaurList import dinosaurs
 app = Flask(__name__)
-
-dinosaurs = [
-    {
-        'name': 'velociraptor',
-        'diet': 'carnivorous',
-        'imageName': 'static/velociraptor.png'
-    },
-    {
-        'name': 'aardonyx',
-        'diet': 'herbivorous',
-        'imageName': 'static/aardonyx.jpeg'
-    },
-    {
-        'name': 'abelisaurus',
-        'diet': 'herbivorous',
-        'imageName': 'static/abelisaurus.jpeg'
-    }
-
-]
 
 
 @app.route("/")
