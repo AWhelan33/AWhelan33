@@ -1085,7 +1085,7 @@ dinosaurs = [
     {
         'name': 'piatnitzkysaurus',
         'diet': 'carnivorous',
-        'imageName': 'static/.jpeg'
+        'imageName': 'static/piatnitzkysaurus.jpeg'
     },
     {
         'name': 'pinacosaurus',
