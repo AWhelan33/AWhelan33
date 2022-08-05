@@ -1,310 +1,310 @@
-name,diet,lived_in,type,taxonomy,species,period_name,period_start,period_end,length_meters
-aardonyx,herbivorous,South Africa,sauropod,Dinosauria Saurischia Sauropodomorpha Prosauropoda Anchisauria,celestae,Early Jurassic,199,189,8
-abelisaurus,carnivorous,Argentina,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauridae Abelisaurinae,comahuensis,Late Cretaceous,74,70,9
-achelousaurus,herbivorous,USA,ceratopsian,Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Centrosaurinae,horneri,Late Cretaceous,83,70,6
-achillobator,carnivorous,Mongolia,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae,giganteus,Late Cretaceous,99,84,5
-acrocanthosaurus,carnivorous,USA,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Carcharodontosauridae,atokensis,Early Cretaceous,115,105,12
-aegyptosaurus,herbivorous,Egypt,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria,baharijensis,Late Cretaceous,98,93,15
-afrovenator,carnivorous,Niger,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Eustreptospondylinae,abakensis,Early Cretaceous,132,121,9
-agilisaurus,herbivorous,China,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda,louderbacki,Late Jurassic,169,159,1.5
-alamosaurus,herbivorous,USA,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia,sanjuanensis,Late Cretaceous,70,65,21
-albertaceratops,herbivorous,USA,ceratopsian,Dinosauria Ornithischia,nesmoi,Late Cretaceous,80,75,7
-albertosaurus,carnivorous,Canada,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea Tyrannosauridae Albertosaurinae,libratus,Late Cretaceous,76,74,9
-alectrosaurus,carnivorous,Mongolia,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea,olseni,Late Cretaceous,90,70,5
-alioramus,carnivorous,Mongolia,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea,remotus,Late Cretaceous,71,65,6
-allosaurus,carnivorous,USA,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Allosauridae,fragilis,Late Jurassic,156,144,12
-alvarezsaurus,carnivorous,Argentina,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Alvarezsauridae,calvoi,Late Cretaceous,89,85,2
-amargasaurus,herbivorous,Argentina,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Dicraeosauridae,cazaui,Early Cretaceous,132,127,12
-ammosaurus,herbivorous,USA,sauropod,Dinosauria Saurischia Sauropodomorpha Prosauropoda Anchisauria Anchisauridae,major,Early Jurassic,195,180,5
-ampelosaurus,herbivorous,France,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia,atacis,Late Cretaceous,71,65,15
-amygdalodon,herbivorous,Argentina,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda,patagonicus,Mid Jurassic,177,169,15
-anchiceratops,herbivorous,Canada,ceratopsian,Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae,ornatus,Late Cretaceous,74,70,6
-anchisaurus,herbivorous,USA,sauropod,Dinosauria Saurischia Sauropodomorpha Prosauropoda Anchisauria Anchisauridae,polyzelous,Early Jurassic,190,190,2
-ankylosaurus,herbivorous,USA,armoured dinosaur,Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae,magniventris,Late Cretaceous,74,67,7
-anserimimus,carnivorous,Mongolia,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae,planinychus,Late Cretaceous,84,65,3.5
-antarctosaurus,herbivorous,Uruguay,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia,wichmannianus,Late Cretaceous,84,65,18
-apatosaurus,herbivorous,USA,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Diplodocidae,ajax,Late Jurassic,154,145,21
-aragosaurus,herbivorous,Spain,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda,ischiadicus,Early Cretaceous,132,121,18
-aralosaurus,herbivorous,Kazakhstan,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae,tuberiferus,Late Cretaceous,94,84,8
-archaeoceratops,herbivorous,China,ceratopsian,Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia,oshimai,Early Cretaceous,121,99,1.3
-archaeopteryx,carnivorous,Germany,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Avialae Archaeopterygidae,lithographica,Late Jurassic,147,147,0.5
-archaeornithomimus,carnivorous,Uzbekistan,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae,asiaticus,Late Cretaceous,95,70,3.5
-argentinosaurus,herbivorous,Argentina,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria,huinculensis,Late Cretaceous,90,90,35
-arrhinoceratops,herbivorous,Canada,ceratopsian,Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae,brachyops,Late Cretaceous,72,67,6
-atlascopcosaurus,herbivorous,Australia,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda,loadsi,Early Cretaceous,121,97,3
-aucasaurus,carnivorous,Argentina,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauroidea Abelisauria,garridoi,Late Cretaceous,84,71,5
-austrosaurus,herbivorous,Australia,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria,mckillopi,Early Cretaceous,112,99,15
-avaceratops,herbivorous,USA,ceratopsian,Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Centrosaurinae,lammersi,Late Cretaceous,80,75,2.3
-avimimus,omnivorous,Mongolia,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Avimimidae,portentosus,Late Cretaceous,80,75,1.5
-bactrosaurus,herbivorous,China,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae,johnsoni,Late Cretaceous,84,71,6
-bagaceratops,herbivorous,Mongolia,ceratopsian,Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Bagaceratopsidae,rozhdestvenskyi,Late Cretaceous,85,80,1
-bambiraptor,carnivorous,USA,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae,feinbergorum,Late Cretaceous,84,71,1
-barapasaurus,herbivorous,India,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Cetiosauridae,tagorei,Early Jurassic,185,170,14
-barosaurus,herbivorous,USA,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Diplodocidae,lentus,Late Jurassic,155,145,24
-baryonyx,carnivorous,United Kingdom,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Spinosauridae Baryonychinae,walkeri,Early Cretaceous,125,125,10
-becklespinax,carnivorous,United Kingdom,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae,altispinax,Early Cretaceous,142,132,5
-beipiaosaurus,omnivorous,China,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea,inexpectus,Early Cretaceous,127,121,2
-bellusaurus,herbivorous,China,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria,sui,Mid Jurassic,180,159,5
-borogovia,carnivorous,Mongolia,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Troodontidae,gracilicrus,Late Cretaceous,84,65,1.5
-brachiosaurus,herbivorous,USA,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Brachiosauridae,altithorax,Late Jurassic,155,140,30
-brachylophosaurus,herbivorous,USA,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae,canadensis,Late Cretaceous,89,88,7
-brachytrachelopan,herbivorous,Argentina,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Dicraeosauridae,mesai,Mid Jurassic,150,150,10
-buitreraptor,carnivorous,Argentina,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae Unenlagiinae,gonzalezorum,Late Cretaceous,99,90,1.3
-camarasaurus,herbivorous,USA,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Camarasauridae,supremus,Late Jurassic,150,140,23
-camptosaurus,herbivorous,USA,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia,dispar,Late Jurassic,155,145,5
-carcharodontosaurus,carnivorous,North Africa,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Carcharodontosauridae,saharicus,Late Cretaceous,98,94,15
-carnotaurus,carnivorous,Argentina,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauridae,sastrei,Late Cretaceous,70,70,7.6
-caudipteryx,omnivorous,China,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caudipterygidae,zoui,Early Cretaceous,125,122,1
-cedarpelta,herbivorous,USA,armoured dinosaur,Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae,bilbeyhallorum,Early Cretaceous,142,127,10
-centrosaurus,herbivorous,Canada,ceratopsian,Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Centrosaurinae,apertus,Late Cretaceous,76,74,6
-ceratosaurus,carnivorous,USA,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria,nasicornis,Late Jurassic,153,148,6
-cetiosauriscus,herbivorous,United Kingdom,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea,stewarti,Mid Jurassic,175,160,15
-cetiosaurus,herbivorous,United Kingdom,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Cetiosauridae,oxoniensis,Mid Jurassic,170,160,18
-chaoyangsaurus,herbivorous,China,ceratopsian,Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia,youngi,Late Jurassic,152,145,1.1
-chasmosaurus,herbivorous,Canada,ceratopsian,Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae,belli,Late Cretaceous,76,74,5
-chindesaurus,carnivorous,USA,small theropod,Dinosauria Saurischia Theropoda Herrerasauridae,bryansmalli,Late Triassic,227,210,4
-chinshakiangosaurus,herbivorous,China,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda,zhongheensis,Late Jurassic,159,142,11
-chirostenotes,omnivorous,Canada,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Caenagnathidae,pergracilis,Late Jurassic,79,67,1.7
-chubutisaurus,herbivorous,Argentina,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria,insignis,Early Cretaceous,112,99,23
-chungkingosaurus,herbivorous,China,armoured dinosaur,Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae Stegosaurinae,jiangbeiensis,Late Jurassic,159,142,4
-citipati,omnivorous,Mongolia,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Oviraptorinae,osmolskae,Late Cretaceous,81,75,2.1
-coelophysis,carnivorous,Zimbabwe,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Coelophysoidea Coelophysidae,bauri,Late Triassic,225,190,2
-coelurus,carnivorous,USA,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria,fragilis,Late Jurassic,155,145,1.8
-coloradisaurus,omnivorous,Argentina,sauropod,Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria Plateosauridae,brevis,Late Triassic,221,210,4
-compsognathus,carnivorous,Germany,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Compsognathidae,longipes,Late Jurassic,145,140,0.65
-conchoraptor,carnivorous,Mongolia,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Ingeniinae,gracilis,Late Cretaceous,81,76,1.5
-confuciusornis,carnivorous,China,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Avialae Ornithurae Avibrevicauda Pygostylia Confuciusornithidae,sanctus,Early Cretaceous,127,121,0.25
-corythosaurus,herbivorous,USA,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae,casuarius,Late Cretaceous,76,74,10
-cryolophosaurus,carnivorous,Antarctica,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria,elliotti,Early Jurassic,170,170,8
-dacentrurus,herbivorous,United Kingdom,armoured dinosaur,Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae,armatus,Late Jurassic,154,150,6
-daspletosaurus,carnivorous,Canada,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea Tyrannosauridae Tyrannosaurinae,torosus,Late Cretaceous,76,74,9
-datousaurus,herbivorous,China,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda,bashanensis,Mid Jurassic,170,170,15
-deinocheirus,omnivorous,Mongolia,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria,mirificus,Late Cretaceous,70,66,10
-deinonychus,carnivorous,USA,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae,antirrhopus,Early Cretaceous,120,110,3
-deltadromeus,carnivorous,Morocco,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria,agilis,Late Cretaceous,99,94,8.1
-dicraeosaurus,herbivorous,Tanzania,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Dicraeosauridae,hansemanni,Late Jurassic,150,135,20
-dilophosaurus,carnivorous,USA,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Dilophosauridae,wetherilli,Early Jurassic,190,190,6
-diplodocus,herbivorous,USA,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Diplodocidae,longus,Late Jurassic,155,145,26
-dromaeosaurus,carnivorous,USA,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae,albertensis,Late Cretaceous,76,74,1.8
-dromiceiomimus,omnivorous,Canada,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae,brevitertius,Late Cretaceous,74,70,3.5
-dryosaurus,herbivorous,USA,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Dryosauridae,altus,Late Jurassic,155,140,4
-dryptosaurus,carnivorous,USA,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea,aquilunguis,Late Cretaceous,84,65,6.4
-dubreuillosaurus,carnivorous,France,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Eustreptospondylinae,valesdunensis,Late Jurassic,169,164,9999
-edmontonia,herbivorous,Canada,armoured dinosaur,Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae,longiceps,Late Cretaceous,76,74,4
-edmontosaurus,herbivorous,Canada,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae,regalis,Late Cretaceous,76,65,13
-einiosaurus,herbivorous,USA,ceratopsian,Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Centrosaurinae,procurvicornis,Late Cretaceous,74,74,6
-elaphrosaurus,carnivorous,Tanzania,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria,bambergi,Late Jurassic,154,151,6.2
-emausaurus,herbivorous,Germany,armoured dinosaur,Dinosauria Ornithischia Genasauria Thyreophora,ernsti,Mid Jurassic,190,180,2
-eolambia,herbivorous,USA,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea,caroljonesa,Late Cretaceous,99,94,9999
-eoraptor,carnivorous,Argentina,small theropod,Dinosauria Saurischia Theropoda,lunensis,Late Triassic,228,228,1
-eotyrannus,carnivorous,United Kingdom,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea,lengi,Early Cretaceous,127,121,5
-equijubus,herbivorous,China,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea,normani,Early Cretaceous,127,99,9999
-erketu,herbivorous,Mongolia,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria,ellisoni,Early Cretaceous,9999,9999,15
-erlikosaurus,omnivorous,Mongolia,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea Therizinosauridae,andrewsi,Late Cretaceous,99,89,3.4
-euhelopus,herbivorous,China,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda,zdanskyi,Late Jurassic,154,142,10
-euoplocephalus,herbivorous,USA,armoured dinosaur,Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae,tutus,Late Cretaceous,76,70,7
-europasaurus,herbivorous,Germany,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria,holgeri,Late Jurassic,154,151,6.2
-eustreptospondylus,carnivorous,United Kingdom,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Eustreptospondylinae,oxoniensis,Mid Jurassic,165,165,7
-fukuiraptor,carnivorous,Japan,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria,kitadaniensis,Early Cretaceous,121,99,4.2
-fukuisaurus,herbivorous,Japan,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea,tetoriensius,Early Cretaceous,121,99,4.7
-gallimimus,omnivorous,Mongolia,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae,bullatus,Late Cretaceous,74,70,6
-gargoyleosaurus,herbivorous,USA,armoured dinosaur,Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria,parkpinorum,Late Jurassic,154,142,4
-garudimimus,omnivorous,Mongolia,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria,brevipes,Late Cretaceous,99,89,4.7
-gasosaurus,carnivorous,China,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda,constructus,Mid Jurassic,170,160,4
-gasparinisaura,herbivorous,Argentina,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda,cincosaltensis,Late Cretaceous,86,71,0.8
-gastonia,herbivorous,USA,armoured dinosaur,Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria,burgei,Early Cretaceous,142,127,4.6
-giganotosaurus,carnivorous,Argentina,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Carcharodontosauridae,carolinii,Early Cretaceous,112,90,12.5
-gilmoreosaurus,herbivorous,China,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae,mongoliensis,Late Cretaceous,76,70,6
-giraffatitan,herbivorous,Tanzania,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Brachiosauridae,brancai,Late Jurassic,154,142,23
-gobisaurus,herbivorous,China,armoured dinosaur,Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae,domoculus,Early Cretaceous,121,99,5
-gorgosaurus,carnivorous,USA,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea Tyrannosauridae Albertosaurinae,libratus,Late Cretaceous,80,73,8.6
-goyocephale,herbivorous,Mongolia,large theropod,Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala,lattimorei,Late Cretaceous,81,75,2
-graciliceratops,herbivorous,Mongolia,ceratopsian,Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia,mongoliensis,Late Cretaceous,99,84,9999
-gryposaurus,herbivorous,USA,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae,notabilis,Late Cretaceous,86,71,10
-guaibasaurus,herbivorous,Brazil,small theropod,Dinosauria Saurischia Theropoda,candelariensis,Late Triassic,221,210,1.8
-guanlong,carnivorous,China,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea,wucaii,Late Jurassic,159,154,3
-hadrosaurus,herbivorous,USA,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae,foulkii,Late Cretaceous,78,74,9
-hagryphus,omnivorous,USA,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria,giganteus,9999,9999,9999,3
-haplocanthosaurus,herbivorous,USA,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Camarasauridae,priscus,Late Jurassic,154,142,21.5
-harpymimus,omnivorous,Mongolia,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria,okladnikovi,Early Cretaceous,121,99,2
-herrerasaurus,carnivorous,Argentina,small theropod,Dinosauria Saurischia Theropoda Herrerasauridae,ischigualastensis,Late Triassic,228,228,3
-hesperosaurus,herbivorous,USA,armoured dinosaur,Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae Stegosaurinae,mjosi,Late Jurassic,154,142,6
-heterodontosaurus,herbivorous,South Africa,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Heterodontosauridae,tucki,Early Jurassic,205,205,1.2
-heyuannia,omnivorous,Mongolia,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Ingeniinae,yanshini,Late Cretaceous,72,68,2
-homalocephale,herbivorous,Mongolia,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala Homalocephaloidea,calathocercos,Late Cretaceous,72,68,1.5
-huayangosaurus,herbivorous,China,armoured dinosaur,Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Huayangosauridae,taibaii,Mid Jurassic,170,160,4.5
-hylaeosaurus,herbivorous,United Kingdom,armoured dinosaur,Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria,armatus,Early Cretaceous,150,135,5
-hypacrosaurus,herbivorous,USA,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae,altispinus,Late Cretaceous,70,70,9
-hypsilophodon,herbivorous,United Kingdom,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Hypsilophodontidae,foxii,Early Cretaceous,125,125,2.3
-iguanodon,herbivorous,United Kingdom,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea,bernissartensis,Early Cretaceous,140,110,10
-indosuchus,carnivorous,India,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria,raptorius,Late Cretaceous,71,65,7
-irritator,carnivorous,Brazil,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Spinosauridae Spinosaurinae,challengeri,Early Cretaceous,112,99,6.5
-isisaurus,herbivorous,India,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia,colberti,Late Cretaceous,71,65,9999
-janenschia,herbivorous,Tanzania,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria,robusta,Late Jurassic,154,151,20
-jaxartosaurus,herbivorous,Kazakhstan,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae,aralensis,Late Cretaceous,94,84,9
-jingshanosaurus,herbivorous,China,sauropod,Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria,xinwaensis,Early Jurassic,205,190,5
-jinzhousaurus,herbivorous,China,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea,yangi,Early Cretaceous,127,121,9999
-jobaria,herbivorous,Niger,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria,tiguidensis,Early Cretaceous,132,94,21
-juravenator,carnivorous,Germany,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Compsognathidae,starki,Late Jurassic,154,151,0.8
-kentrosaurus,herbivorous,Tanzania,armoured dinosaur,Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae Stegosaurinae,aethiopicus,Late Jurassic,155,150,5
-khaan,omnivorous,Mongolia,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Ingeniinae,mckennai,Late Cretaceous,81,75,1.8
-kotasaurus,herbivorous,India,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda,yamanpalliensis,Early Jurassic,205,180,9
-kritosaurus,herbivorous,USA,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae,navajovius,Late Cretaceous,78,74,8
-lambeosaurus,herbivorous,Canada,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae,lambei,Late Cretaceous,76,74,9
-lapparentosaurus,herbivorous,Madagascar,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes,madagascariensis,Mid Jurassic,169,164,9999
-leaellynasaura,herbivorous,Australia,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda,amicagraphica,Early Cretaceous,115,110,2
-leptoceratops,herbivorous,USA,ceratopsian,Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria,gracilis,Late Cretaceous,67,65,3
-lesothosaurus,herbivorous,Lesotho,9999,Dinosauria Ornithischia,diagnosticus,Early Jurassic,213,200,1
-liaoceratops,herbivorous,China,ceratopsian,Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia,yanzigouensis,Early Cretaceous,127,121,9999
-ligabuesaurus,herbivorous,Argentina,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria,leanzai,Early Cretaceous,121,99,24
-liliensternus,carnivorous,Germany,small theropod,Dinosauria Saurischia Theropoda Neotheropoda,liliensterni,Late Triassic,205,202,5
-lophorhothon,herbivorous,USA,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae,atopus,Late Cretaceous,84,71,4.5
-lophostropheus,carnivorous,France,large theropod,Dinosauria Saurischia,airelensis,Early Jurassic,203,196,6.2
-lufengosaurus,herbivorous,China,sauropod,Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria Plateosauridae,huenei,Early Jurassic,200,195,6
-lurdusaurus,herbivorous,Niger,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea,arenatus,Early Cretaceous,121,112,9
-lycorhinus,herbivorous,South Africa,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Heterodontosauridae,angustidens,Late Triassic,205,195,1.2
-magyarosaurus,herbivorous,Romania,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia,dacus,Late Cretaceous,71,65,5
-maiasaura,herbivorous,USA,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae,peeblesorum,Late Cretaceous,80,75,9
-majungasaurus,carnivorous,Madagascar,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauridae,atopus,Late Cretaceous,84,71,6
-malawisaurus,herbivorous,Malawi,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia,dixeyi,Early Cretaceous,121,112,9
-mamenchisaurus,herbivorous,China,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda,constructus,Late Jurassic,155,145,22
-mapusaurus,carnivorous,Argentina,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Allosauridae Charcharodontosauridae Giganotosaurinae,roseae,Late Cretaceous,99,94,13
-marshosaurus,carnivorous,USA,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda,bicentesimus,Late Jurassic,154,142,6
-masiakasaurus,carnivorous,Madagascar,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauroidea Abelisauria,knopfleri,Late Cretaceous,84,71,2
-massospondylus,omnivorous,Zimbabwe,sauropod,Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria Plateosauridae,carinatus,Early Jurassic,208,204,4
-maxakalisaurus,herbivorous,Brazil,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia Saltasauridae Saltasaurinae,topai,Late Cretaceous,80,80,13
-megalosaurus,carnivorous,United Kingdom,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Megalosaurinae,bucklandii,Mid Jurassic,170,155,9
-melanorosaurus,omnivorous,South Africa,sauropod,Dinosauria Saurischia Sauropodomorpha Prosauropoda Anchisauria Melanorosauridae,readi,Late Triassic,227,221,12
-metriacanthosaurus,carnivorous,United Kingdom,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae,parkeri,Late Jurassic,159,154,8.2
-microceratus,herbivorous,Mongolia,ceratopsian,Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria,gobiensis,Late Cretaceous,86,66,0.5
-micropachycephalosaurus,herbivorous,China,ceratopsian,Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria,hongtuyanensis,Late Cretaceous,84,71,0.6
-microraptor,carnivorous,China,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae,zhaoianus,Early Cretaceous,125,122,0.8
-minmi,herbivorous,Australia,armoured dinosaur,Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria,paravertebra,Early Cretaceous,121,112,3
-monolophosaurus,carnivorous,China,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria,jiangi,Mid Jurassic,180,159,5.7
-mononykus,unknown,Mongolia,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Alvarezsauridae,olecranus,Late Cretaceous,81,68,1
-mussaurus,herbivorous,Argentina,sauropod,Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria Plateosauridae,patagonicus,Late Triassic,221,210,3
-muttaburrasaurus,herbivorous,Australia,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea,langdoni,Early Cretaceous,110,100,7
-nanshiungosaurus,omnivorous,China,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea Therizinosauridae,brevispinus,Late Cretaceous,84,71,4.4
-nedoceratops,herbivorous,USA,ceratopsian,Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae,hatcheri,Late Cretaceous,67,65,7
-nemegtosaurus,herbivorous,Mongolia,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Nemegtosauridae,mongoliensis,Late Cretaceous,72,68,13
-neovenator,carnivorous,United Kingdom,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Carcharodontosauridae,salerii,Early Cretaceous,127,121,7.4
-neuquenosaurus,herbivorous,Argentina,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia Saltasauridae,australis,Late Cretaceous,71,65,10
-nigersaurus,herbivorous,Tunisia,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Rebbachisauridae,taqueti,Early Cretaceous,121,99,15
-nipponosaurus,herbivorous,Russia,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae,sachalinensis,Late Cretaceous,89,84,9999
-noasaurus,carnivorous,Argentina,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauroidea Abelisauria,leali,Late Cretaceous,84,65,1
-nodosaurus,herbivorous,USA,armoured dinosaur,Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae,textilis,Early Cretaceous,110,100,5
-nomingia,omnivorous,Mongolia,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Caenagnathidae,gobiensis,Late Cretaceous,72,68,1.6
-nothronychus,omnivorous,USA,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea Therizinosauridae,mckinleyi,Late Cretaceous,94,89,5.3
-nqwebasaurus,carnivorous,South Africa,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria,thwazi,Mid Jurassic,159,132,1
-omeisaurus,herbivorous,China,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda,junghsiensis,Mid Jurassic,169,159,20
-opisthocoelicaudia,herbivorous,Mongolia,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia Saltasauridae,skarzynskii ,Late Cretaceous,72,68,12
-ornitholestes,carnivorous,USA,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria,hermanni,Late Jurassic,150,144,2
-ornithomimus,omnivorous,USA,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae,velox,Late Cretaceous,74,65,4
-orodromeus,herbivorous,USA,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda,makelai,Late Cretaceous,74,74,2
-oryctodromeus,herbivorous,USA,euornithopod,Dinosauria Ornithischia,cubicularis,Late Cretaceous,99,94,2.1
-othnielia,herbivorous,USA,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda,rex,Late Jurassic,154,142,1.4
-ouranosaurus,herbivorous,Niger,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea,nigeriensis,Early Cretaceous,115,100,7
-oviraptor,omnivorous,Mongolia,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Oviraptorinae,philoceratops,Late Cretaceous,85,75,2
-pachycephalosaurus,herbivorous,USA,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala Homalocephaloidea Pachycephalosauridae,wyomingensis,Late Cretaceous,76,65,8
-pachyrhinosaurus,herbivorous,Canada,ceratopsian,Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Centrosaurinae,canadensis,Late Cretaceous,76,74,6
-panoplosaurus,herbivorous,USA,armoured dinosaur,Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae,mirus,Late Cretaceous,79,75,7
-pantydraco,herbivorous,Wales,euornithopod,Dinosauria Saurischia,caducus,Early Jurassic,9999,9999,3
-paralititan,herbivorous,Egypt,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia,stromeri,Late Cretaceous,99,94,28
-parasaurolophus,herbivorous,USA,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae,walkeri,Late Cretaceous,76,74,11
-parksosaurus,herbivorous,Canada,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda,warrenae,Late Cretaceous,76,74,3
-patagosaurus,herbivorous,Argentina,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Cetiosauridae,fariasi,Mid Jurassic,164,159,18
-pelicanimimus,carnivorous,Spain,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria,polyodon,Early Cretaceous,127,121,2
-pelorosaurus,herbivorous,United Kingdom,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes,conybearei,Early Cretaceous,125,125,25
-pentaceratops,herbivorous,USA,ceratopsian,Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae,sternbergi,Late Cretaceous,76,74,6.8
-piatnitzkysaurus,carnivorous,Argentina,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Eustreptospondylinae,floresi,Late Jurassic,164,159,4.2
-pinacosaurus,herbivorous,Mongolia,armoured dinosaur,Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae,grangeri,Late Cretaceous,81,75,5
-plateosaurus,herbivorous,Switzerland,sauropod,Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria Plateosauridae,engelhardti,Late Triassic,210,210,7
-podokesaurus,carnivorous,USA,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Coelophysoidea,holyokensis,Mid Jurassic,195,180,0.9
-poekilopleuron,carnivorous,France,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Megalosaurinae,bucklandii,Mid Jurassic,169,164,9
-polacanthus,herbivorous,United Kingdom,armoured dinosaur,Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria,foxii,Early Cretaceous,125,125,5
-prenocephale,herbivorous,Mongolia,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala Homalocephaloidea Pachycephalosauridae,prenes,Late Cretaceous,80,65,2.4
-probactrosaurus,herbivorous,China,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea,gobiensis,Early Cretaceous,121,99,6
-proceratosaurus,carnivorous,United Kingdom,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria,bradleyi,Mid Jurassic,169,164,4.1
-procompsognathus,carnivorous,Germany,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Coelophysoidea,triassicus,Late Triassic,221,210,1
-prosaurolophus,herbivorous,USA,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae,maximus,Late Cretaceous,77,75,7.6
-protarchaeopteryx,carnivorous,China,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora,robusta,Early Cretaceous,122,120,2
-protoceratops,herbivorous,Mongolia,ceratopsian,Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria,andrewsi,Late Cretaceous,74,70,1.8
-protohadros,herbivorous,USA,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea,byrdi,Late Cretaceous,99,94,6
-psittacosaurus,herbivorous,Russia,ceratopsian,Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Psittacosauridae,mongoliensis,Early Cretaceous,120,100,2
-quaesitosaurus,herbivorous,Mongolia,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Nemegtosauridae,orientalis,Late Cretaceous,86,84,23
-rebbachisaurus,herbivorous,Morocco,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Rebbachisauridae,garasbae,Early Cretaceous,112,99,20
-rhabdodon,herbivorous,Spain,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Rhabdodontidae,priscus,Late Cretaceous,76,70,4
-rhoetosaurus,herbivorous,Australia,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda,brownei,Mid Jurassic,177,169,15
-rinchenia,omnivorous,Mongolia,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Oviraptorinae,mongoliensis,Late Cretaceous,72,68,2.5
-riojasaurus,herbivorous/omnivorous,Argentina,sauropod,Dinosauria Saurischia Sauropodomorpha Prosauropoda Anchisauria Melanorosauridae,incertus,Late Triassic,221,210,5.15
-rugops,carnivorous,Niger,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauridae,primus,Late Cretaceous,95,95,7
-saichania,herbivorous,Mongolia,armoured dinosaur,Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae,chulsanensis,Late Cretaceous,80,80,6.6
-saltasaurus,herbivorous,Argentina,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia Saltasauridae,loricatus,Late Cretaceous,70,65,12
-saltopus,carnivorous,United Kingdom,small theropod,Dinosauria,elginensis,Late Triassic,221,210,9999
-sarcosaurus,carnivorous,United Kingdom,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria,woodi,Early Jurassic,202,195,3
-saurolophus,herbivorous,Mongolia,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae,osborni,Late Cretaceous,74,70,9
-sauropelta,herbivorous,USA,armoured dinosaur,Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae,edwardsorum,Early Cretaceous,121,94,6.5
-saurophaganax,carnivorous,USA,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Allosauridae,maximus,Late Jurassic,154,142,12
-saurornithoides,carnivorous,Mongolia,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Troodontidae,mongoliensis,Late Cretaceous,85,80,3
-scelidosaurus,herbivorous,United Kingdom,armoured dinosaur,Dinosauria Ornithischia Genasauria Thyreophora Scelidosauridae,harrisonii,Early Jurassic,208,194,4
-scutellosaurus,herbivorous,USA,armoured dinosaur,Dinosauria Ornithischia Genasauria Thyreophora,lawleri,Early Jurassic,205,202,1.2
-secernosaurus,herbivorous,Argentina,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae,koerneri,Late Cretaceous,71,65,3
-segisaurus,carnivorous,USA,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Coelophysoidea Coelophysidae,halli,Mid Jurassic,195,180,1.5
-segnosaurus,carnivorous,Mongolia,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea Therizinosauridae,galbinensis,Late Cretaceous,97,88,4
-shamosaurus,herbivorous,Mongolia,armoured dinosaur,Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae,scutatus,Early Cretaceous,121,99,9999
-shanag,carnivorous,Mongolia,small theropod,Dinosauria Saurischia,ashile,Early Cretaceous,126,142,0.45
-shantungosaurus,herbivorous,China,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae,giganteus,Late Cretaceous,78,74,15
-shunosaurus,herbivorous,China,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda,lii,Mid Jurassic,170,160,10
-shuvuuia,omnivorous,Mongolia,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Alvarezsauridae,deserti,Late Cretaceous,75,81,0.6
-silvisaurus,herbivorous,USA,armoured dinosaur,Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae,condrayi,Early Cretaceous,121,112,4
-sinocalliopteryx,carnivorous,China,small theropod,Dinosauria Saurischia,gigas,Early Cretaceous,125,125,2.37
-sinornithosaurus,carnivorous,China,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae,millenii,Early Cretaceous,122,120,2
-sinosauropteryx,carnivorous,China,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Compsognathidae,prima,Early Cretaceous,122,120,1
-sinovenator,carnivorous,China,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Troodontidae,changii,Early Cretaceous,127,121,1
-sinraptor,carnivorous,China,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Sinraptoridae,hepingensis,Mid Jurassic,169,142,7.6
-sonidosaurus,herbivorous,China,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria,saihangaobiensis,Late Cretaceous,89,65,9
-spinosaurus,carnivorous,Morocco,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Spinosauridae Spinosaurinae,aegyptiacus,Late Cretaceous,95,70,18
-staurikosaurus,carnivorous,Brazil,large theropod,Dinosauria Saurischia Theropoda Herrerasauridae,pricei,Late Triassic,227,221,2
-stegoceras,herbivorous,USA,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala Homalocephaloidea Pachycephalosauridae,validum,Late Cretaceous,76,74,2.4
-stegosaurus,herbivorous,USA,armoured dinosaur,Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae Stegosaurinae,armatus,Late Jurassic,155,145,9
-stenopelix,herbivorous,Germany,ceratopsian,Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria,valdensis,Early Cretaceous,127,121,1.5
-struthiomimus,omnivorous,Canada,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae,altus,Late Cretaceous,76,74,4
-struthiosaurus,herbivorous,Spain,armoured dinosaur,Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae,austriacus,Late Cretaceous,83,75,2.5
-styracosaurus,herbivorous,USA,ceratopsian,Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Centrosaurinae,albertensis,Late Cretaceous,76,70,5.5
-suchomimus,carnivorous,Niger,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Spinosauridae Baryonychinae,tenerensis,Early Cretaceous,121,112,11
-supersaurus,herbivorous,USA,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Diplodocidae,vivianae,Early Cretaceous,154,142,35
-talarurus,herbivorous,Mongolia,armoured dinosaur,Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae,plicatospineus,Late Cretaceous,99,89,6
-tanius,herbivorous,China,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae,sinensis,Late Cretaceous,89,65,9999
-tarbosaurus,carnivorous,Mongolia,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea Tyrannosauridae Tyrannosaurinae,bataar,Late Cretaceous,74,70,10
-tarchia,herbivorous,Mongolia,armoured dinosaur,Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosaurinae,gigantea,Late Cretaceous,75,68,8.5
-telmatosaurus,herbivorous,Spain,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae,transsylvanicus,Late Cretaceous,84,65,5
-tenontosaurus,herbivorous,USA,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia,tillettorum,Early Cretaceous,120,110,7
-thecodontosaurus,omnivorous,United Kingdom,sauropod,Dinosauria Saurischia Sauropodomorpha Prosauropoda,antiquus,Late Triassic,227,205,2.5
-therizinosaurus,unknown,Mongolia,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea Therizinosauridae,cheloniformis,Late Cretaceous,85,70,9999
-thescelosaurus,herbivorous,USA,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda,neglectus,Late Cretaceous,76,67,3.5
-torosaurus,herbivorous,USA,ceratopsian,Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae,latus,Late Cretaceous,70,65,7.5
-torvosaurus,carnivorous,USA,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Megalosaurinae,tanneri,Late Jurassic,155,144,10
-triceratops,herbivorous,USA,ceratopsian,Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae,horridus,Late Cretaceous,68,66,9
-troodon,carnivorous,USA,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Troodontidae,formosus,Late Cretaceous,74,65,2
-tsagantegia,herbivorous,Mongolia,armoured dinosaur,Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae,longicranialis,Late Cretaceous,99,84,9999
-tsintaosaurus,herbivorous,China,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae,spinorhinus,Late Cretaceous,84,71,12
-tuojiangosaurus,herbivorous,China,armoured dinosaur,Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae Stegosaurinae,multispinus,Late Jurassic,157,154,7
-tylocephale,herbivorous,Mongolia,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala Homalocephaloidea Pachycephalosauridae,gilmorei,Late Cretaceous,75,72,1.4
-tyrannosaurus,carnivorous,USA,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea Tyrannosauridae Tyrannosaurinae,rex,Late Cretaceous,68,66,12
-udanoceratops,herbivorous,Mongolia,ceratopsian,Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia,tschizhovi,Late Cretaceous,81,75,9999
-unenlagia,carnivorous,Argentina,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae,comahuensis,Late Cretaceous,94,86,2.4
-urbacodon,carnivorous,Uzbekistan,small theropod,Dinosauria Saurischia,itemirensis,Late Cretaceous,95,95,1
-utahraptor,carnivorous,USA,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae,ostrommaysorum,Early Cretaceous,112,100,6
-valdosaurus,herbivorous,United Kingdom,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Dryosauridae,canaliculatus,Early Cretaceous,142,121,3
-velociraptor,carnivorous,Mongolia,small theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae,mongoliensis,Late Cretaceous,74,70,1.8
-vulcanodon,herbivorous,Zimbabwe,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Vulcanodontidae,karibaensis,Early Jurassic,205,202,6.5
-yandusaurus,herbivorous,China,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda,hongheensis,Mid Jurassic,169,159,3
-yangchuanosaurus,carnivorous,China,large theropod,Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Sinraptoridae,shangyouensis,Late Jurassic,160,144,10
-yimenosaurus,herbivorous,China,sauropod,Dinosauria Saurischia Sauropodomorpha Prosauropoda,youngi,Early Jurassic,195,190,9
-yingshanosaurus,herbivorous,China,armoured dinosaur,Dinosauria Ornithischia Genasauria Thyreophora Stegosauria,jichuanensis,Late Jurassic,159,142,9999
-yinlong,herbivorous,China,ceratopsian,Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia,downsi,Mid Jurassic,159,154,1.2
-yuanmousaurus,herbivorous,China,sauropod,Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda,jiangyiensis,Mid Jurassic,180,159,17
-yunnanosaurus,omnivorous,China,sauropod,Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria,huangi,Early Jurassic,205,190,7
-zalmoxes,herbivorous,Romania,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Rhabdodontidae,robustus,Late Cretaceous,69,69,3
-zephyrosaurus,herbivorous,USA,euornithopod,Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda,schaffi,Early Cretaceous,120,110,1.8
-zuniceratops,herbivorous,USA,ceratopsian,Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria,christopheri,Late Cretaceous,94,89,9999
+,name,diet,lived_in,type,period_name
+0,aardonyx,herbivorous,South Africa,sauropod,Early Jurassic
+1,abelisaurus,carnivorous,Argentina,large theropod,Late Cretaceous
+2,achelousaurus,herbivorous,USA,ceratopsian,Late Cretaceous
+3,achillobator,carnivorous,Mongolia,large theropod,Late Cretaceous
+4,acrocanthosaurus,carnivorous,USA,large theropod,Early Cretaceous
+5,aegyptosaurus,herbivorous,Egypt,sauropod,Late Cretaceous
+6,afrovenator,carnivorous,Niger,large theropod,Early Cretaceous
+7,agilisaurus,herbivorous,China,euornithopod,Late Jurassic
+8,alamosaurus,herbivorous,USA,sauropod,Late Cretaceous
+9,albertaceratops,herbivorous,USA,ceratopsian,Late Cretaceous
+10,albertosaurus,carnivorous,Canada,large theropod,Late Cretaceous
+11,alectrosaurus,carnivorous,Mongolia,large theropod,Late Cretaceous
+12,alioramus,carnivorous,Mongolia,large theropod,Late Cretaceous
+13,allosaurus,carnivorous,USA,large theropod,Late Jurassic
+14,alvarezsaurus,carnivorous,Argentina,small theropod,Late Cretaceous
+15,amargasaurus,herbivorous,Argentina,sauropod,Early Cretaceous
+16,ammosaurus,herbivorous,USA,sauropod,Early Jurassic
+17,ampelosaurus,herbivorous,France,sauropod,Late Cretaceous
+18,amygdalodon,herbivorous,Argentina,sauropod,Mid Jurassic
+19,anchiceratops,herbivorous,Canada,ceratopsian,Late Cretaceous
+20,anchisaurus,herbivorous,USA,sauropod,Early Jurassic
+21,ankylosaurus,herbivorous,USA,armoured dinosaur,Late Cretaceous
+22,anserimimus,carnivorous,Mongolia,large theropod,Late Cretaceous
+23,antarctosaurus,herbivorous,Uruguay,sauropod,Late Cretaceous
+24,apatosaurus,herbivorous,USA,sauropod,Late Jurassic
+25,aragosaurus,herbivorous,Spain,sauropod,Early Cretaceous
+26,aralosaurus,herbivorous,Kazakhstan,euornithopod,Late Cretaceous
+27,archaeoceratops,herbivorous,China,ceratopsian,Early Cretaceous
+28,archaeopteryx,carnivorous,Germany,small theropod,Late Jurassic
+29,archaeornithomimus,carnivorous,Uzbekistan,small theropod,Late Cretaceous
+30,argentinosaurus,herbivorous,Argentina,sauropod,Late Cretaceous
+31,arrhinoceratops,herbivorous,Canada,ceratopsian,Late Cretaceous
+32,atlascopcosaurus,herbivorous,Australia,euornithopod,Early Cretaceous
+33,aucasaurus,carnivorous,Argentina,large theropod,Late Cretaceous
+34,austrosaurus,herbivorous,Australia,sauropod,Early Cretaceous
+35,avaceratops,herbivorous,USA,ceratopsian,Late Cretaceous
+36,avimimus,omnivorous,Mongolia,small theropod,Late Cretaceous
+37,bactrosaurus,herbivorous,China,euornithopod,Late Cretaceous
+38,bagaceratops,herbivorous,Mongolia,ceratopsian,Late Cretaceous
+39,bambiraptor,carnivorous,USA,small theropod,Late Cretaceous
+40,barapasaurus,herbivorous,India,sauropod,Early Jurassic
+41,barosaurus,herbivorous,USA,sauropod,Late Jurassic
+42,baryonyx,carnivorous,United Kingdom,large theropod,Early Cretaceous
+43,becklespinax,carnivorous,United Kingdom,large theropod,Early Cretaceous
+44,beipiaosaurus,omnivorous,China,small theropod,Early Cretaceous
+45,bellusaurus,herbivorous,China,sauropod,Mid Jurassic
+46,borogovia,carnivorous,Mongolia,small theropod,Late Cretaceous
+47,brachiosaurus,herbivorous,USA,sauropod,Late Jurassic
+48,brachylophosaurus,herbivorous,USA,euornithopod,Late Cretaceous
+49,brachytrachelopan,herbivorous,Argentina,sauropod,Mid Jurassic
+50,buitreraptor,carnivorous,Argentina,small theropod,Late Cretaceous
+51,camarasaurus,herbivorous,USA,sauropod,Late Jurassic
+52,camptosaurus,herbivorous,USA,euornithopod,Late Jurassic
+53,carcharodontosaurus,carnivorous,North Africa,large theropod,Late Cretaceous
+54,carnotaurus,carnivorous,Argentina,large theropod,Late Cretaceous
+55,caudipteryx,omnivorous,China,small theropod,Early Cretaceous
+56,cedarpelta,herbivorous,USA,armoured dinosaur,Early Cretaceous
+57,centrosaurus,herbivorous,Canada,ceratopsian,Late Cretaceous
+58,ceratosaurus,carnivorous,USA,large theropod,Late Jurassic
+59,cetiosauriscus,herbivorous,United Kingdom,sauropod,Mid Jurassic
+60,cetiosaurus,herbivorous,United Kingdom,sauropod,Mid Jurassic
+61,chaoyangsaurus,herbivorous,China,ceratopsian,Late Jurassic
+62,chasmosaurus,herbivorous,Canada,ceratopsian,Late Cretaceous
+63,chindesaurus,carnivorous,USA,small theropod,Late Triassic
+64,chinshakiangosaurus,herbivorous,China,sauropod,Late Jurassic
+65,chirostenotes,omnivorous,Canada,small theropod,Late Jurassic
+66,chubutisaurus,herbivorous,Argentina,sauropod,Early Cretaceous
+67,chungkingosaurus,herbivorous,China,armoured dinosaur,Late Jurassic
+68,citipati,omnivorous,Mongolia,small theropod,Late Cretaceous
+69,coelophysis,carnivorous,Zimbabwe,small theropod,Late Triassic
+70,coelurus,carnivorous,USA,small theropod,Late Jurassic
+71,coloradisaurus,omnivorous,Argentina,sauropod,Late Triassic
+72,compsognathus,carnivorous,Germany,small theropod,Late Jurassic
+73,conchoraptor,carnivorous,Mongolia,small theropod,Late Cretaceous
+74,confuciusornis,carnivorous,China,small theropod,Early Cretaceous
+75,corythosaurus,herbivorous,USA,euornithopod,Late Cretaceous
+76,cryolophosaurus,carnivorous,Antarctica,large theropod,Early Jurassic
+77,dacentrurus,herbivorous,United Kingdom,armoured dinosaur,Late Jurassic
+78,daspletosaurus,carnivorous,Canada,large theropod,Late Cretaceous
+79,datousaurus,herbivorous,China,sauropod,Mid Jurassic
+80,deinocheirus,omnivorous,Mongolia,large theropod,Late Cretaceous
+81,deinonychus,carnivorous,USA,small theropod,Early Cretaceous
+82,deltadromeus,carnivorous,Morocco,large theropod,Late Cretaceous
+83,dicraeosaurus,herbivorous,Tanzania,sauropod,Late Jurassic
+84,dilophosaurus,carnivorous,USA,large theropod,Early Jurassic
+85,diplodocus,herbivorous,USA,sauropod,Late Jurassic
+86,dromaeosaurus,carnivorous,USA,small theropod,Late Cretaceous
+87,dromiceiomimus,omnivorous,Canada,large theropod,Late Cretaceous
+88,dryosaurus,herbivorous,USA,euornithopod,Late Jurassic
+89,dryptosaurus,carnivorous,USA,large theropod,Late Cretaceous
+90,dubreuillosaurus,carnivorous,France,large theropod,Late Jurassic
+91,edmontonia,herbivorous,Canada,armoured dinosaur,Late Cretaceous
+92,edmontosaurus,herbivorous,Canada,euornithopod,Late Cretaceous
+93,einiosaurus,herbivorous,USA,ceratopsian,Late Cretaceous
+94,elaphrosaurus,carnivorous,Tanzania,large theropod,Late Jurassic
+95,emausaurus,herbivorous,Germany,armoured dinosaur,Mid Jurassic
+96,eolambia,herbivorous,USA,euornithopod,Late Cretaceous
+97,eoraptor,carnivorous,Argentina,small theropod,Late Triassic
+98,eotyrannus,carnivorous,United Kingdom,large theropod,Early Cretaceous
+99,equijubus,herbivorous,China,euornithopod,Early Cretaceous
+100,erketu,herbivorous,Mongolia,sauropod,Early Cretaceous
+101,erlikosaurus,omnivorous,Mongolia,small theropod,Late Cretaceous
+102,euhelopus,herbivorous,China,sauropod,Late Jurassic
+103,euoplocephalus,herbivorous,USA,armoured dinosaur,Late Cretaceous
+104,europasaurus,herbivorous,Germany,sauropod,Late Jurassic
+105,eustreptospondylus,carnivorous,United Kingdom,large theropod,Mid Jurassic
+106,fukuiraptor,carnivorous,Japan,large theropod,Early Cretaceous
+107,fukuisaurus,herbivorous,Japan,euornithopod,Early Cretaceous
+108,gallimimus,omnivorous,Mongolia,large theropod,Late Cretaceous
+109,gargoyleosaurus,herbivorous,USA,armoured dinosaur,Late Jurassic
+110,garudimimus,omnivorous,Mongolia,large theropod,Late Cretaceous
+111,gasosaurus,carnivorous,China,small theropod,Mid Jurassic
+112,gasparinisaura,herbivorous,Argentina,euornithopod,Late Cretaceous
+113,gastonia,herbivorous,USA,armoured dinosaur,Early Cretaceous
+114,giganotosaurus,carnivorous,Argentina,large theropod,Early Cretaceous
+115,gilmoreosaurus,herbivorous,China,euornithopod,Late Cretaceous
+116,giraffatitan,herbivorous,Tanzania,sauropod,Late Jurassic
+117,gobisaurus,herbivorous,China,armoured dinosaur,Early Cretaceous
+118,gorgosaurus,carnivorous,USA,large theropod,Late Cretaceous
+119,goyocephale,herbivorous,Mongolia,large theropod,Late Cretaceous
+120,graciliceratops,herbivorous,Mongolia,ceratopsian,Late Cretaceous
+121,gryposaurus,herbivorous,USA,euornithopod,Late Cretaceous
+122,guaibasaurus,herbivorous,Brazil,small theropod,Late Triassic
+123,guanlong,carnivorous,China,small theropod,Late Jurassic
+124,hadrosaurus,herbivorous,USA,euornithopod,Late Cretaceous
+125,hagryphus,omnivorous,USA,small theropod,unknown
+126,haplocanthosaurus,herbivorous,USA,sauropod,Late Jurassic
+127,harpymimus,omnivorous,Mongolia,small theropod,Early Cretaceous
+128,herrerasaurus,carnivorous,Argentina,small theropod,Late Triassic
+129,hesperosaurus,herbivorous,USA,armoured dinosaur,Late Jurassic
+130,heterodontosaurus,herbivorous,South Africa,euornithopod,Early Jurassic
+131,heyuannia,omnivorous,Mongolia,small theropod,Late Cretaceous
+132,homalocephale,herbivorous,Mongolia,euornithopod,Late Cretaceous
+133,huayangosaurus,herbivorous,China,armoured dinosaur,Mid Jurassic
+134,hylaeosaurus,herbivorous,United Kingdom,armoured dinosaur,Early Cretaceous
+135,hypacrosaurus,herbivorous,USA,euornithopod,Late Cretaceous
+136,hypsilophodon,herbivorous,United Kingdom,euornithopod,Early Cretaceous
+137,iguanodon,herbivorous,United Kingdom,euornithopod,Early Cretaceous
+138,indosuchus,carnivorous,India,large theropod,Late Cretaceous
+139,irritator,carnivorous,Brazil,large theropod,Early Cretaceous
+140,isisaurus,herbivorous,India,sauropod,Late Cretaceous
+141,janenschia,herbivorous,Tanzania,sauropod,Late Jurassic
+142,jaxartosaurus,herbivorous,Kazakhstan,euornithopod,Late Cretaceous
+143,jingshanosaurus,herbivorous,China,sauropod,Early Jurassic
+144,jinzhousaurus,herbivorous,China,euornithopod,Early Cretaceous
+145,jobaria,herbivorous,Niger,sauropod,Early Cretaceous
+146,juravenator,carnivorous,Germany,small theropod,Late Jurassic
+147,kentrosaurus,herbivorous,Tanzania,armoured dinosaur,Late Jurassic
+148,khaan,omnivorous,Mongolia,small theropod,Late Cretaceous
+149,kotasaurus,herbivorous,India,sauropod,Early Jurassic
+150,kritosaurus,herbivorous,USA,euornithopod,Late Cretaceous
+151,lambeosaurus,herbivorous,Canada,euornithopod,Late Cretaceous
+152,lapparentosaurus,herbivorous,Madagascar,sauropod,Mid Jurassic
+153,leaellynasaura,herbivorous,Australia,euornithopod,Early Cretaceous
+154,leptoceratops,herbivorous,USA,ceratopsian,Late Cretaceous
+155,lesothosaurus,herbivorous,Lesotho,unknown,Early Jurassic
+156,liaoceratops,herbivorous,China,ceratopsian,Early Cretaceous
+157,ligabuesaurus,herbivorous,Argentina,sauropod,Early Cretaceous
+158,liliensternus,carnivorous,Germany,small theropod,Late Triassic
+159,lophorhothon,herbivorous,USA,euornithopod,Late Cretaceous
+160,lophostropheus,carnivorous,France,large theropod,Early Jurassic
+161,lufengosaurus,herbivorous,China,sauropod,Early Jurassic
+162,lurdusaurus,herbivorous,Niger,euornithopod,Early Cretaceous
+163,lycorhinus,herbivorous,South Africa,euornithopod,Late Triassic
+164,magyarosaurus,herbivorous,Romania,sauropod,Late Cretaceous
+165,maiasaura,herbivorous,USA,euornithopod,Late Cretaceous
+166,majungasaurus,carnivorous,Madagascar,large theropod,Late Cretaceous
+167,malawisaurus,herbivorous,Malawi,sauropod,Early Cretaceous
+168,mamenchisaurus,herbivorous,China,sauropod,Late Jurassic
+169,mapusaurus,carnivorous,Argentina,large theropod,Late Cretaceous
+170,marshosaurus,carnivorous,USA,large theropod,Late Jurassic
+171,masiakasaurus,carnivorous,Madagascar,small theropod,Late Cretaceous
+172,massospondylus,omnivorous,Zimbabwe,sauropod,Early Jurassic
+173,maxakalisaurus,herbivorous,Brazil,sauropod,Late Cretaceous
+174,megalosaurus,carnivorous,United Kingdom,large theropod,Mid Jurassic
+175,melanorosaurus,omnivorous,South Africa,sauropod,Late Triassic
+176,metriacanthosaurus,carnivorous,United Kingdom,large theropod,Late Jurassic
+177,microceratus,herbivorous,Mongolia,ceratopsian,Late Cretaceous
+178,micropachycephalosaurus,herbivorous,China,ceratopsian,Late Cretaceous
+179,microraptor,carnivorous,China,small theropod,Early Cretaceous
+180,minmi,herbivorous,Australia,armoured dinosaur,Early Cretaceous
+181,monolophosaurus,carnivorous,China,large theropod,Mid Jurassic
+182,mononykus,unknown,Mongolia,small theropod,Late Cretaceous
+183,mussaurus,herbivorous,Argentina,sauropod,Late Triassic
+184,muttaburrasaurus,herbivorous,Australia,euornithopod,Early Cretaceous
+185,nanshiungosaurus,omnivorous,China,large theropod,Late Cretaceous
+186,nedoceratops,herbivorous,USA,ceratopsian,Late Cretaceous
+187,nemegtosaurus,herbivorous,Mongolia,sauropod,Late Cretaceous
+188,neovenator,carnivorous,United Kingdom,large theropod,Early Cretaceous
+189,neuquenosaurus,herbivorous,Argentina,sauropod,Late Cretaceous
+190,nigersaurus,herbivorous,Tunisia,sauropod,Early Cretaceous
+191,nipponosaurus,herbivorous,Russia,euornithopod,Late Cretaceous
+192,noasaurus,carnivorous,Argentina,small theropod,Late Cretaceous
+193,nodosaurus,herbivorous,USA,armoured dinosaur,Early Cretaceous
+194,nomingia,omnivorous,Mongolia,small theropod,Late Cretaceous
+195,nothronychus,omnivorous,USA,large theropod,Late Cretaceous
+196,nqwebasaurus,carnivorous,South Africa,small theropod,Mid Jurassic
+197,omeisaurus,herbivorous,China,sauropod,Mid Jurassic
+198,opisthocoelicaudia,herbivorous,Mongolia,sauropod,Late Cretaceous
+199,ornitholestes,carnivorous,USA,small theropod,Late Jurassic
+200,ornithomimus,omnivorous,USA,large theropod,Late Cretaceous
+201,orodromeus,herbivorous,USA,euornithopod,Late Cretaceous
+202,oryctodromeus,herbivorous,USA,euornithopod,Late Cretaceous
+203,othnielia,herbivorous,USA,euornithopod,Late Jurassic
+204,ouranosaurus,herbivorous,Niger,euornithopod,Early Cretaceous
+205,oviraptor,omnivorous,Mongolia,small theropod,Late Cretaceous
+206,pachycephalosaurus,herbivorous,USA,euornithopod,Late Cretaceous
+207,pachyrhinosaurus,herbivorous,Canada,ceratopsian,Late Cretaceous
+208,panoplosaurus,herbivorous,USA,armoured dinosaur,Late Cretaceous
+209,pantydraco,herbivorous,Wales,euornithopod,Early Jurassic
+210,paralititan,herbivorous,Egypt,sauropod,Late Cretaceous
+211,parasaurolophus,herbivorous,USA,euornithopod,Late Cretaceous
+212,parksosaurus,herbivorous,Canada,euornithopod,Late Cretaceous
+213,patagosaurus,herbivorous,Argentina,sauropod,Mid Jurassic
+214,pelicanimimus,carnivorous,Spain,small theropod,Early Cretaceous
+215,pelorosaurus,herbivorous,United Kingdom,sauropod,Early Cretaceous
+216,pentaceratops,herbivorous,USA,ceratopsian,Late Cretaceous
+217,piatnitzkysaurus,carnivorous,Argentina,large theropod,Late Jurassic
+218,pinacosaurus,herbivorous,Mongolia,armoured dinosaur,Late Cretaceous
+219,plateosaurus,herbivorous,Switzerland,sauropod,Late Triassic
+220,podokesaurus,carnivorous,USA,small theropod,Mid Jurassic
+221,poekilopleuron,carnivorous,France,large theropod,Mid Jurassic
+222,polacanthus,herbivorous,United Kingdom,armoured dinosaur,Early Cretaceous
+223,prenocephale,herbivorous,Mongolia,euornithopod,Late Cretaceous
+224,probactrosaurus,herbivorous,China,euornithopod,Early Cretaceous
+225,proceratosaurus,carnivorous,United Kingdom,small theropod,Mid Jurassic
+226,procompsognathus,carnivorous,Germany,small theropod,Late Triassic
+227,prosaurolophus,herbivorous,USA,euornithopod,Late Cretaceous
+228,protarchaeopteryx,carnivorous,China,small theropod,Early Cretaceous
+229,protoceratops,herbivorous,Mongolia,ceratopsian,Late Cretaceous
+230,protohadros,herbivorous,USA,euornithopod,Late Cretaceous
+231,psittacosaurus,herbivorous,Russia,ceratopsian,Early Cretaceous
+232,quaesitosaurus,herbivorous,Mongolia,sauropod,Late Cretaceous
+233,rebbachisaurus,herbivorous,Morocco,sauropod,Early Cretaceous
+234,rhabdodon,herbivorous,Spain,euornithopod,Late Cretaceous
+235,rhoetosaurus,herbivorous,Australia,sauropod,Mid Jurassic
+236,rinchenia,omnivorous,Mongolia,small theropod,Late Cretaceous
+237,riojasaurus,herbivorous/omnivorous,Argentina,sauropod,Late Triassic
+238,rugops,carnivorous,Niger,large theropod,Late Cretaceous
+239,saichania,herbivorous,Mongolia,armoured dinosaur,Late Cretaceous
+240,saltasaurus,herbivorous,Argentina,sauropod,Late Cretaceous
+241,saltopus,carnivorous,United Kingdom,small theropod,Late Triassic
+242,sarcosaurus,carnivorous,United Kingdom,small theropod,Early Jurassic
+243,saurolophus,herbivorous,Mongolia,euornithopod,Late Cretaceous
+244,sauropelta,herbivorous,USA,armoured dinosaur,Early Cretaceous
+245,saurophaganax,carnivorous,USA,large theropod,Late Jurassic
+246,saurornithoides,carnivorous,Mongolia,small theropod,Late Cretaceous
+247,scelidosaurus,herbivorous,United Kingdom,armoured dinosaur,Early Jurassic
+248,scutellosaurus,herbivorous,USA,armoured dinosaur,Early Jurassic
+249,secernosaurus,herbivorous,Argentina,euornithopod,Late Cretaceous
+250,segisaurus,carnivorous,USA,small theropod,Mid Jurassic
+251,segnosaurus,carnivorous,Mongolia,large theropod,Late Cretaceous
+252,shamosaurus,herbivorous,Mongolia,armoured dinosaur,Early Cretaceous
+253,shanag,carnivorous,Mongolia,small theropod,Early Cretaceous
+254,shantungosaurus,herbivorous,China,euornithopod,Late Cretaceous
+255,shunosaurus,herbivorous,China,sauropod,Mid Jurassic
+256,shuvuuia,omnivorous,Mongolia,small theropod,Late Cretaceous
+257,silvisaurus,herbivorous,USA,armoured dinosaur,Early Cretaceous
+258,sinocalliopteryx,carnivorous,China,small theropod,Early Cretaceous
+259,sinornithosaurus,carnivorous,China,small theropod,Early Cretaceous
+260,sinosauropteryx,carnivorous,China,small theropod,Early Cretaceous
+261,sinovenator,carnivorous,China,small theropod,Early Cretaceous
+262,sinraptor,carnivorous,China,large theropod,Mid Jurassic
+263,sonidosaurus,herbivorous,China,sauropod,Late Cretaceous
+264,spinosaurus,carnivorous,Morocco,large theropod,Late Cretaceous
+265,staurikosaurus,carnivorous,Brazil,large theropod,Late Triassic
+266,stegoceras,herbivorous,USA,euornithopod,Late Cretaceous
+267,stegosaurus,herbivorous,USA,armoured dinosaur,Late Jurassic
+268,stenopelix,herbivorous,Germany,ceratopsian,Early Cretaceous
+269,struthiomimus,omnivorous,Canada,small theropod,Late Cretaceous
+270,struthiosaurus,herbivorous,Spain,armoured dinosaur,Late Cretaceous
+271,styracosaurus,herbivorous,USA,ceratopsian,Late Cretaceous
+272,suchomimus,carnivorous,Niger,large theropod,Early Cretaceous
+273,supersaurus,herbivorous,USA,sauropod,Early Cretaceous
+274,talarurus,herbivorous,Mongolia,armoured dinosaur,Late Cretaceous
+275,tanius,herbivorous,China,euornithopod,Late Cretaceous
+276,tarbosaurus,carnivorous,Mongolia,large theropod,Late Cretaceous
+277,tarchia,herbivorous,Mongolia,armoured dinosaur,Late Cretaceous
+278,telmatosaurus,herbivorous,Spain,euornithopod,Late Cretaceous
+279,tenontosaurus,herbivorous,USA,euornithopod,Early Cretaceous
+280,thecodontosaurus,omnivorous,United Kingdom,sauropod,Late Triassic
+281,therizinosaurus,unknown,Mongolia,large theropod,Late Cretaceous
+282,thescelosaurus,herbivorous,USA,euornithopod,Late Cretaceous
+283,torosaurus,herbivorous,USA,ceratopsian,Late Cretaceous
+284,torvosaurus,carnivorous,USA,large theropod,Late Jurassic
+285,triceratops,herbivorous,USA,ceratopsian,Late Cretaceous
+286,troodon,carnivorous,USA,small theropod,Late Cretaceous
+287,tsagantegia,herbivorous,Mongolia,armoured dinosaur,Late Cretaceous
+288,tsintaosaurus,herbivorous,China,euornithopod,Late Cretaceous
+289,tuojiangosaurus,herbivorous,China,armoured dinosaur,Late Jurassic
+290,tylocephale,herbivorous,Mongolia,euornithopod,Late Cretaceous
+291,tyrannosaurus,carnivorous,USA,large theropod,Late Cretaceous
+292,udanoceratops,herbivorous,Mongolia,ceratopsian,Late Cretaceous
+293,unenlagia,carnivorous,Argentina,small theropod,Late Cretaceous
+294,urbacodon,carnivorous,Uzbekistan,small theropod,Late Cretaceous
+295,utahraptor,carnivorous,USA,large theropod,Early Cretaceous
+296,valdosaurus,herbivorous,United Kingdom,euornithopod,Early Cretaceous
+297,velociraptor,carnivorous,Mongolia,small theropod,Late Cretaceous
+298,vulcanodon,herbivorous,Zimbabwe,sauropod,Early Jurassic
+299,yandusaurus,herbivorous,China,euornithopod,Mid Jurassic
+300,yangchuanosaurus,carnivorous,China,large theropod,Late Jurassic
+301,yimenosaurus,herbivorous,China,sauropod,Early Jurassic
+302,yingshanosaurus,herbivorous,China,armoured dinosaur,Late Jurassic
+303,yinlong,herbivorous,China,ceratopsian,Mid Jurassic
+304,yuanmousaurus,herbivorous,China,sauropod,Mid Jurassic
+305,yunnanosaurus,omnivorous,China,sauropod,Early Jurassic
+306,zalmoxes,herbivorous,Romania,euornithopod,Late Cretaceous
+307,zephyrosaurus,herbivorous,USA,euornithopod,Early Cretaceous
+308,zuniceratops,herbivorous,USA,ceratopsian,Late Cretaceous
