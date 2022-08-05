@@ -1,5 +1,7 @@
 {% extends 'layout.html' %}
     {% block content %}
+    <div class="container">
+            <div class="card-columns">
         {% for dinosaur in dinosaurs %}
         <div class="card mx-auto d-block" style="break-inside: avoid;">
             <img src="{{ dinosaur.imageName }}" alt={{ dinosaur.name }} class="img-thumbnail mx-auto d-block" style="height: 20vh; width:40vh;">
@@ -10,4 +12,6 @@
                 </div>
         </div>
         {% endfor %}
+            </div>
+    </div>
     {% endblock content %}

@@ -2,6 +2,7 @@ from appone.models import DinosaurDB, DinosaurSelections
 from appone import app
 from flask import render_template, request, url_for, flash
 from appone.dinosaurList import dinosaurs
+from appone.recommender_code import get_recommendations
 
 
 @app.route("/")
@@ -17,4 +18,5 @@ def dinosaur():
 @app.route('/selectDinosaur', methods=['POST'])
 def selectDinosaur():
     selectedDinosaur = request.form.get('dinosaur')
-    return render_template('dinosaur.html', selectedDinosaur=selectedDinosaur)
+    result = get_recommendations(selectedDinosaur)
+    return render_template('dinosaur.html', selectedDinosaur=selectedDinosaur, result=result)
