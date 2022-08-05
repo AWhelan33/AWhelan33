@@ -1,0 +1,13 @@
+{% extends 'layout.html' %}
+    {% block content %}
+        {% for dinosaur in dinosaurs %}
+        <div class="card mx-auto d-block" style="break-inside: avoid;">
+            <img src="{{ dinosaur.imageName }}" alt={{ dinosaur.name }} class="img-thumbnail mx-auto d-block" style="height: 20vh; width:40vh;">
+            <div class="card-body text-center">
+                <form action="{{ url_for('selectDinosaur') }}" method="post">
+                    <input type="submit" value={{ dinosaur.name }} class="btn btn-success" name='dinosaur'>
+                </form>
+                </div>
+        </div>
+        {% endfor %}
+    {% endblock content %}
