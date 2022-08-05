@@ -62,13 +62,15 @@ def get_recommendations(name, cosine_sim2=cosine_sim2):
     # Sort the dinosaurs based on the similarity scores
     sim_scores = sorted(sim_scores, key=lambda x: x[1], reverse=True)
 
-    # Get the scores of the 10 most similar dinosaurs
-    sim_scores = sim_scores[1:11]
+    # Get the scores of the 3 most similar dinosaurs
+    sim_scores = sim_scores[1:4]
 
     # Get the movie indices
     dino_indices = [i[0] for i in sim_scores]
 
-    # Return the top 10 most similar dinosaurs
-    return df['name'].iloc[dino_indices]
+    # Return the top 3 most similar dinosaurs
+    reccommendations = df['name'].iloc[dino_indices]
+    reccommendations = reccommendations.to_string(index=False)
+    return reccommendations
 
 get_recommendations('diplodocus', cosine_sim2)
