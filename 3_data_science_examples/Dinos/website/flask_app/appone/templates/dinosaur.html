@@ -1,22 +1,22 @@
 {% extends 'layout.html' %}
     {% block content %}
-    <h3 class="text-center">You Selected {{ selectedDinosaur }}! you might also like:</h3>
+    <h3 class="text-center">You Selected {{ selectedDinosaur }}! <h3>
+        <h4>You might also like these dinosaurs. Pick your next favourite:</h4>
+    <div class="container">
+        <div class="card-columns">
     {% for item in result %}
-    <h3>{{ item }}</h3>
-        {% for dinosaur in dinosaurs %}
-            {% while dinosaur != item %}
-            {% else %}
-                <div class="container">
-                    <div class="card-columns">
+        {% for dinosaur in dinosaurs | selectattr('name', 'equalto', item) %}
+                
                         <div class="card mx-auto d-block" style="break-inside: avoid;">
-                            <img src={{ dinosaur.imageName }} alt=item class="img-thumbnail mx-auto d-block" style="height: 20vh; width:40vh;">
-                        <div class="card-body text-center">
-                            <h2 name='dinosaur'>{{ dinosaur.name }}</h2>
+                            <img src="{{ dinosaur.imageName }}" alt={{ dinosaur.name }} class="img-thumbnail mx-auto d-block" style="height: 20vh; width:40vh;">
+                            <div class="card-body text-center">
+                                <form action="{{ url_for('likedDinosaur') }}" method="post">
+                                    <input type="submit" value={{ dinosaur.name }} class="btn btn-success" name='dinosaur'>
+                                </form>
+                                </div>
                         </div>
-                        </div>
-                    </div>
-                 </div>
-                 {% endif %}
         {% endfor %}
     {% endfor %}
+</div>
+</div>
     {% endblock content %}
