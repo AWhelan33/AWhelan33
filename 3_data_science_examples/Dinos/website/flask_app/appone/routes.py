@@ -19,4 +19,4 @@ def dinosaur():
 def selectDinosaur():
     selectedDinosaur = request.form.get('dinosaur')
     result = get_recommendations(selectedDinosaur)
-    return render_template('dinosaur.html', selectedDinosaur=selectedDinosaur, result=result)
+    return render_template('dinosaur.html', selectedDinosaur=selectedDinosaur, result=result, dinosaurs=dinosaurs)
