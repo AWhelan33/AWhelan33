@@ -76,5 +76,5 @@ def get_recommendations(name, cosine_sim2=cosine_sim2):
 
     # Return the top 3 most similar dinosaurs
     reccommendations = df['name'].iloc[dino_indices]
-    reccommendations = reccommendations.to_string(index=False)
+    reccommendations = reccommendations.values.tolist()
     return reccommendations

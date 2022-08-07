@@ -1,17 +1,22 @@
 {% extends 'layout.html' %}
     {% block content %}
-    <h3 class="text-center">You Selected {{ selectedDinosaur }}! you might also like: </h3>
-    {% set list1 = result.split(' ') %}
-    <div class="container">
-        <div class="card-columns">
-            {% for item in list1 %}
-            <div class="card mx-auto d-block" style="break-inside: avoid;">
-                <img src="static/images/aardonyx.jpeg" alt=item class="img-thumbnail mx-auto d-block" style="height: 20vh; width:40vh;">
-        <div class="card-body text-center">
-            <h2 name='dinosaur'>{{ item }}</h2>
-        </div>
-        </div>
-      {% endfor %} 
-        </div>
-        </div>
+    <h3 class="text-center">You Selected {{ selectedDinosaur }}! you might also like:</h3>
+    {% for item in result %}
+    <h3>{{ item }}</h3>
+        {% for dinosaur in dinosaurs %}
+            {% while dinosaur != item %}
+            {% else %}
+                <div class="container">
+                    <div class="card-columns">
+                        <div class="card mx-auto d-block" style="break-inside: avoid;">
+                            <img src={{ dinosaur.imageName }} alt=item class="img-thumbnail mx-auto d-block" style="height: 20vh; width:40vh;">
+                        <div class="card-body text-center">
+                            <h2 name='dinosaur'>{{ dinosaur.name }}</h2>
+                        </div>
+                        </div>
+                    </div>
+                 </div>
+                 {% endif %}
+        {% endfor %}
+    {% endfor %}
     {% endblock content %}
