@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: #04AA6D;
+  padding: 10px;
+}
+
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+
+body {
+  background-color: #f1f1f1;
+  padding: 20px;
+  font-family: Arial;
+}
+.container {
+  position: relative;
+  width: 100%;
+}
+
+/* Center website */
+.main {
+  max-width: 1350px;
+  margin: auto;
+}
+
+.column {
+  float: left;
+  display: none;
+}
+
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: flex;
+}
+
+/* The "show" class is added to the filtered elements */
+
+h1 {
+  font-size: 50px;
+  word-break: break-all;
+  text-align: center;
+}
+
+/* The "show" class is added to the filtered elements */
+.show {
+  display: block;
+}
+
+/* Style the buttons */
+.btn {
+  border: none;
+  outline: none;
+  padding: 12px 16px;
+  background-color: white;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #ddd;
+}
+
+.btn.active {
+  background-color: #666;
+  color: white;
+}
+
+.image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: 100%;
+  transition: .5s ease;
+  backface-visibility: hidden;
+  object-fit: block;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.container:hover .image {
+  opacity: 0.3;
+}
+
+.container:hover .middle {
+  opacity: 1;
+}
+
+.text {
+  background-color: #04AA6D;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+}
+
+.name {
+  background-color: #f1f1f1;
+  color: #04AA6D;
+  font-size: 16px;
+  padding: 16px 32px;
+}
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: #04AA6D;
+  color: white;
+}
+
+</style>
+
+<body>
+
+
+
+<!-- MAIN (Center website) -->
+<div class="main">
+
+  <h1>Dinosaur Recommendation System</h1>
+  <!-- buttons for filtering (Center website) -->
+  <div id="myBtnContainer">
+    <button class="btn active" onclick="filterSelection('all')">Show all</button>
+    <button class="btn" onclick="filterSelection('herbivorous')">Herbivorous</button>
+    <button class="btn" onclick="filterSelection('omnivorous')">Omnivorous</button>
+    <button class="btn" onclick="filterSelection('both')">Herbivorous/Omnivorous</button>
+    <button class="btn" onclick="filterSelection('carnivorous')">Carnivorous</button>
+  </div>
+  <!-- image selection area (Center website) -->
+  <div class="row">
+      
+<div class="grid-container">
+  <div class="grid-item">
+    <div class="column herbivorous">
+      <div class="container">
+          <img src="images/aardonyx.jpeg" alt="aardonyx-image" class="image" style="width:100%">
+              <div class="middle">
+                  <div class="text">Aardonyx</div>
+                  </div>
+      </div>
+  </div>
+  </div>
+  <div class="grid-item">
+    <div class="column carnivorous">
+      <div class="container">
+          <img src="images/abelisaurus.jpeg" alt="abelisaurus-image" class="image" style="width:100%">
+              <div class="middle">
+                  <div class="text">Abelisaurus</div>
+                  </div>
+      </div>
+  </div>
+  </div>
+  <div class="grid-item"><div class="column herbivorous">
+    <div class="column herbivorous">
+      <div class="container">
+          <img src="images/achelousaurus.jpeg" alt="achelousaurus-image" class="image" style="width:100%">
+              <div class="middle">
+                  <div class="text">Achelousaurus</div>
+                  </div>
+      </div>
+  </div>
+</div>
+</div>  
+  <div class="grid-item">
+    <div class="column herbivorous">
+    <div class="column carnivorous">
+      <div class="container">
+          <img src="images/achillobator.png" alt="achillobator-image" class="image" style="width:100%">
+              <div class="middle">
+                  <div class="text">Achillobator</div>
+                  </div>
+      </div>
+  </div>
+    </div>
+    </div>
+  <div class="grid-item">  
+    <div class="column carnivorous">
+    <div class="container">
+        <img src="images/acrocanthosaurus.jpeg" alt="acrocanthosaurus-image" class="image" style="width:100%">
+            <div class="middle">
+                <div class="text">Acrocanthosaurus</div>
+                </div>
+    </div>
+  </div>
+  </div>
+  <div class="grid-item">
+    <div class="column herbivorous">
+    <div class="container">
+        <img src="images/aegyptosaurus.png" alt="aegyptosaurus-image" class="image" style="width:100%">
+            <div class="middle">
+                <div class="text">Aegyptosaurus</div>
+                </div>
+    </div>
+  </div>
+  </div>  
+  <div class="grid-item">  <div class="column carnivorous">
+    <div class="container">
+        <img src="images/velociraptor.png" alt="veliciraptor-image" class="image" style="width:100%">
+            <div class="middle">
+                <div class="text">Velociraptor</div>
+                 </div>
+    </div>
+  </div>
+  </div>
+  <div class="grid-item">8</div>
+  <div class="grid-item">9</div>
+  <div class="grid-item">8</div>
+  <div class="grid-item">9</div>  
+  <div class="grid-item">8</div>
+  <div class="grid-item">9</div>  
+  <div class="grid-item">8</div>
+  <div class="grid-item">9</div>  
+  <div class="grid-item">8</div>
+  <div class="grid-item">9</div>  
+  <div class="grid-item">8</div>
+  <div class="grid-item">9</div>  
+  <div class="grid-item">8</div>
+  <div class="grid-item">9</div>  
+  <div class="grid-item">8</div>
+  <div class="grid-item">9</div>  
+  <div class="grid-item">8</div>
+  <div class="grid-item">9</div>  
+  <div class="grid-item">8</div>
+  <div class="grid-item">9</div>  
+  <div class="grid-item">8</div>
+  <div class="grid-item">9</div>  
+  <div class="grid-item">8</div>
+  <div class="grid-item">9</div>  
+  <div class="grid-item">8</div>
+  <div class="grid-item">9</div>  
+  <div class="grid-item">8</div>
+  <div class="grid-item">9</div>  
+  <div class="grid-item">8</div>
+  <div class="grid-item">9</div>    
+</div>
+
+
+<footer>
+  <p><a href="imageAttributes.html">Image attributes</a></p> 
+</footer>
+
+<script>
+filterSelection("all")
+function filterSelection(c) {
+  var x, i;
+  x = document.getElementsByClassName("column");
+  if (c == "all") c = "";
+  for (i = 0; i < x.length; i++) {
+    w3RemoveClass(x[i], "show");
+    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show");
+  }
+}
+
+function w3AddClass(element, name) {
+  var i, arr1, arr2;
+  arr1 = element.className.split(" ");
+  arr2 = name.split(" ");
+  for (i = 0; i < arr2.length; i++) {
+    if (arr1.indexOf(arr2[i]) == -1) {element.className += " " + arr2[i];}
+  }
+}
+
+function w3RemoveClass(element, name) {
+  var i, arr1, arr2;
+  arr1 = element.className.split(" ");
+  arr2 = name.split(" ");
+  for (i = 0; i < arr2.length; i++) {
+    while (arr1.indexOf(arr2[i]) > -1) {
+      arr1.splice(arr1.indexOf(arr2[i]), 1);     
+    }
+  }
+  element.className = arr1.join(" ");
+}
+
+
+// Add active class to the current button (highlight it)
+var btnContainer = document.getElementById("myBtnContainer");
+var btns = btnContainer.getElementsByClassName("btn");
+for (var i = 0; i < btns.length; i++) {
+  btns[i].addEventListener("click", function(){
+    var current = document.getElementsByClassName("active");
+    current[0].className = current[0].className.replace(" active", "");
+    this.className += " active";
+  });
+}
+</script>  
+</body>
+</html>
+
+

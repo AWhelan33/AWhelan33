@@ -1,0 +1,40 @@
+{% extends 'layout.html' %}
+    {% block content %}
+    <h1 class="text-center">You Selected {{ selectedDinosaur }}! <h1>
+        <div style="height: 10px;"></div>
+        <h3 class="text-center">You might also like these dinosaurs:<h3>
+    <div class="container">
+        <div class="card-columns">
+    {% for item in result %}
+    {% if item == selectedDinosaur %}
+            {% set indexNo = range (1, 308) | random %}
+            {% if dinosaurs[indexNo] == item in results %}
+            {% set indexNo = range (1, 308) | random %}
+            {% endif %}
+            {% set item = dinosaurs[indexNo] %}
+            <div class="card mx-auto d-block" style="break-inside: avoid;">
+                <img src="{{ item.imageName }}" alt={{ item.name }} class="img-thumbnail mx-auto d-block" style="height: 20vh; width:40vh;">
+                <div class="card-body text-center">
+                    <form action="{{ url_for('likedDinosaur') }}" method="post">
+                        <input type="submit" value={{ item.name }} class="btn btn-success" name='dinosaur'>
+                    </form>
+                    </div>
+            </div>
+        {% else %}
+        {% for dinosaur in dinosaurs | selectattr('name', 'equalto', item) %}
+                
+                        <div class="card mx-auto d-block" style="break-inside: avoid;">
+                            <img src="{{ dinosaur.imageName }}" alt={{ dinosaur.name }} class="img-thumbnail mx-auto d-block" style="height: 20vh; width:40vh;">
+                            <div class="card-body text-center">
+                                <form action="{{ url_for('likedDinosaur') }}" method="post">
+                                    <input type="submit" value={{ dinosaur.name }} class="btn btn-success" name='dinosaur'>
+                                </form>
+                                </div>
+                        </div>
+        {% endfor %}
+        {% endif %}
+    {% endfor %}
+</div>
+</div>
+<h2 class="text-center">Which do you like best?</h2>
+    {% endblock content %}
