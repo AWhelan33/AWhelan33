@@ -264,7 +264,7 @@ dinosaurs = [
     },    {
         'name': 'cedarpelta',
         'diet': 'herbivorous',
-        'imageName': 'static/images/cedarpelta.jpeg'
+        'imageName': 'static/images/cedarpelta.png'
     },
     {
         'name': 'centrosaurus',
@@ -479,7 +479,7 @@ dinosaurs = [
     {
         'name': 'equijubus',
         'diet': 'herbivorous',
-        'imageName': 'static/images/equijubus.png'
+        'imageName': 'static/images/equijubus.jpeg'
     },
     {
         'name': 'erketu',
@@ -619,7 +619,7 @@ dinosaurs = [
     {
         'name': 'hagryphus',
         'diet': 'omnivorous',
-        'imageName': 'static/images/hagryphus.pmg'
+        'imageName': 'static/images/hagryphus.png'
     },
 
     {
@@ -740,7 +740,7 @@ dinosaurs = [
     {
         'name': 'khaan',
         'diet': 'omnivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/khaan.jpeg'
     },
     {
         'name': 'kotasaurus',
@@ -1005,7 +1005,7 @@ dinosaurs = [
     {
         'name': 'orodromeus',
         'diet': 'herbivorous',
-        'imageName': 'static/images/orodromeus.jpeg'
+        'imageName': 'static/images/orodromeus.png'
     },
     {
         'name': 'oryctodromeus',
@@ -1090,525 +1090,510 @@ dinosaurs = [
     {
         'name': 'pinacosaurus',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/pinacosaurus.png'
     },
     {
         'name': 'plateosaurus',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/plateosaurus.png'
     },
     {
         'name': 'podokesaurus',
         'diet': 'carnivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/podokesaurus.jpeg'
     },
     {
         'name': 'poekilopleuron',
         'diet': 'carnivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/poekilopleuron.png'
     },
     {
         'name': 'polacanthus',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/polacanthus.jpeg'
     },
     {
         'name': 'prenocephale',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/prenocephale.jpeg'
     },
     {
         'name': 'probactrosaurus',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/probactrosaurus.jpeg'
     },
     {
         'name': 'proceratosaurus',
         'diet': 'carnivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/proceratosaurus.jpeg'
     },
     {
         'name': 'procompsognathus',
         'diet': 'carnivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/procompsognathus.jpeg'
     },
     {
         'name': 'prosaurolophus',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/prosaurolophus.jpeg'
     },
     {
         'name': 'protarchaeopteryx',
         'diet': 'carnivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/protarchaeopteryx.jpeg'
     },
     {
         'name': 'protoceratops',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/protoceratops.png'
     },
     {
         'name': 'protohadros',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/protohadros.jpeg'
     },
     {
         'name': 'psittacosaurus',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/psittacosaurus.png'
     },
     {
         'name': 'quaesitosaurus',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/quaesitosaurus.jpeg'
     },
     {
         'name': 'rebbachisaurus',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/rebbachisaurus.jpeg'
     },
     {
         'name': 'rhabdodon',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/rhabdodon.jpeg'
     },
     {
         'name': 'rhoetosaurus',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/rhoetosaurus.png'
     },
     {
         'name': 'rinchenia',
         'diet': 'omnivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/rinchenia.jpeg'
     },
     {
         'name': 'riojasaurus',
         'diet': 'herbivorous/omnivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/riojasaurus.jpeg'
     },
     {
         'name': 'rugops',
         'diet': 'carnivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/rugops.jpeg'
     },
     {
         'name': 'saichania',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/saichania.jpeg'
     },
     {
         'name': 'saltasaurus',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/saltasaurus.png'
     },
     {
         'name': 'saltopus',
         'diet': 'carnivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/saltopus.jpeg'
     },
     {
         'name': 'sarcosaurus',
         'diet': 'carnivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/sarcosaurus.jpeg'
     },
     {
         'name': 'saurolophus',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/saurolophus.png'
     },
     {
         'name': 'sauropelta',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/sauropelta.png'
     },
     {
         'name': 'saurophaganax',
         'diet': 'carnivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/saurophaganax.jpeg'
     },
     {
         'name': 'saurornithoides',
         'diet': 'carnivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/saurornithoides.png'
     },
     {
         'name': 'scelidosaurus',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/scelidosaurus.png'
     },
     {
         'name': 'scutellosaurus',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/scutellosaurus.jpeg'
     },
     {
         'name': 'secernosaurus',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/secernosaurus.jpeg'
     },
     {
         'name': 'segisaurus',
         'diet': 'carnivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/segisaurus.jpeg'
     },
     {
         'name': 'segnosaurus',
         'diet': 'carnivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/segnosaurus.jpeg'
     },
     {
         'name': 'shamosaurus',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/shamosaurus.png'
     },
     {
         'name': 'shanag',
         'diet': 'carnivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/shanag.jpeg'
     },
     {
         'name': 'shantungosaurus',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/shantungosaurus.png'
     },
 
     {
         'name': 'shunosaurus',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/shunosaurus.jpeg'
     },
 
     {
         'name': 'shuvuuia',
-        'name': 'omnivorous',
-        'diet': '',
-        'imageName': 'static/images/.jpeg'
+        'diet': 'omnivorous',
+        'imageName': 'static/images/shuvuuia.jpeg'
     },
 
     {
         'name': 'silvisaurus',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/silvisaurus.jpeg'
     },
 
     {
         'name': 'sinocalliopteryx',
         'diet': 'carnivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/sinocalliopteryx.jpeg'
     },
 
     {
         'name': 'sinornithosaurus',
         'diet': 'carnivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/sinornithosaurus.jpeg'
     },
 
     {
         'name': 'sinosauropteryx',
         'diet': 'carnivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/sinosauropteryx.jpeg'
     },
 
     {
         'name': 'sinovenator',
         'diet': 'carnivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/sinovenator.png'
     },
 
     {
         'name': 'sinraptor',
         'diet': 'carnivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/sinraptor.jpeg'
     },
 
     {
         'name': 'sonidosaurus',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/sonidosaurus.jpeg'
     },
 
     {
         'name': 'spinosaurus',
         'diet': 'carnivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/spinosaurus.jpeg'
     },
 
     {
         'name': 'staurikosaurus',
         'diet': 'carnivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/staurikosaurus.jpeg'
     },
 
     {
         'name': 'stegoceras',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/stegoceras.jpeg'
     },
 
     {
         'name': 'stegosaurus',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/stegosaurus.png'
     },
 
     {
         'name': 'stenopelix',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/stenopelix.jpeg'
     },
 
     {
         'name': 'struthiomimus',
         'diet': 'omnivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/struthiomimus.jpeg'
     },
 
     {
         'name': 'struthiosaurus',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/struthiosaurus.png'
     },
 
     {
         'name': 'styracosaurus',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/styracosaurus.jpeg'
     },
 
     {
         'name': 'suchomimus',
         'diet': 'carnivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/suchomimus.jpeg'
     },
 
     {
         'name': 'supersaurus',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/supersaurus.png'
     },
 
     {
         'name': 'talarurus',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/talarurus.png'
     },
 
     {
         'name': 'tanius',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/tanius.jpeg'
     },
 
     {
         'name': 'tarbosaurus',
         'diet': 'carnivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/tarbosaurus.jpeg'
     },
 
     {
         'name': 'tarchia',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/tarchia.jpeg'
     },
 
     {
         'name': 'telmatosaurus',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/telmatosaurus.jpeg'
     },
 
     {
         'name': 'tenontosaurus',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/telmatosaurus.jpeg'
     },
 
     {
         'name': 'thecodontosaurus',
         'diet': 'omnivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/thecodontosaurus.jpeg'
     },
 
     {
         'name': 'therizinosaurus',
         'diet': 'unknown',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/therizinosaurus.png'
     },
 
     {
         'name': 'thescelosaurus',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/thescelosaurus.jpeg'
     },
 
     {
         'name': 'torosaurus',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/torosaurus.jpeg'
     },
 
     {
         'name': 'torvosaurus',
         'diet': 'carnivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/torvosaurus.jpeg'
     },
 
     {
         'name': 'triceratops',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/triceratops.png'
     },
 
     {
         'name': 'troodon',
         'diet': 'carnivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/troodon.jpeg'
     },
 
     {
         'name': 'tsagantegia',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
-    },
-
-    {
-        'name': '',
-        'diet': '',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/tsagantegia.jpeg'
     },
 
     {
         'name': 'tsintaosaurus',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/tsintaosaurus.jpeg'
     },
 
     {
         'name': 'tuojiangosaurus',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/tuojiangosaurus.jpeg'
     },
 
     {
         'name': 'tylocephale',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/tylocephale.jpeg'
     },
 
     {
         'name': 'tyrannosaurus',
         'diet': 'carnivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/tyrannosaurus.png'
     },
 
     {
         'name': 'udanoceratops',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/udanoceratops.png'
     },
 
     {
         'name': 'unenlagia',
         'diet': 'carnivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/unenlagia.jpeg'
     },
 
     {
         'name': 'urbacodon',
         'diet': 'carnivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/urbacodon.jpeg'
     },
 
     {
         'name': 'utahraptor',
         'diet': 'carnivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/utahraptor.png'
     },
 
     {
         'name': 'valdosaurus',
         'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
+        'imageName': 'static/images/valdosaurus.png'
     },
-
-    {
-        'name': 'velociraptor',
-        'diet': 'carnivorous',
-        'imageName': 'static/images/.jpeg'
-    },
-
-    {
-        'name': 'vulcanodon',
-        'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
-    },
-
-    {
-        'name': 'yandusaurus',
-        'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
-    },
-
-    {
-        'name': 'yangchuanosaurus',
-        'diet': 'carnivorous',
-        'imageName': 'static/images/.jpeg'
-    },
-
-    {
-        'name': 'yimenosaurus',
-        'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
-    },
-
-    {
-        'name': 'yingshanosaurus',
-        'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
-    },
-
-    {
-        'name': 'yinlong',
-        'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
-    },
-
-    {
-        'name': 'yuanmousaurus',
-        'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
-    },
-
-    {
-        'name': 'yunnanosaurus',
-        'diet': 'omnivorous',
-        'imageName': 'static/images/.jpeg'
-    },
-
-    {
-        'name': 'zalmoxes',
-        'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
-    },
-
-    {
-        'name': 'zephyrosaurus',
-        'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
-    },
-
-    {
-        'name': 'zuniceratops',
-        'diet': 'herbivorous',
-        'imageName': 'static/images/.jpeg'
-    },
-
-
 
     {
         'name': 'velociraptor',
         'diet': 'carnivorous',
         'imageName': 'static/images/velociraptor.png'
+    },
+
+    {
+        'name': 'vulcanodon',
+        'diet': 'herbivorous',
+        'imageName': 'static/images/vulcanodon.jpeg'
+    },
+
+    {
+        'name': 'yandusaurus',
+        'diet': 'herbivorous',
+        'imageName': 'static/images/yandusaurus.jpeg'
+    },
+
+    {
+        'name': 'yangchuanosaurus',
+        'diet': 'carnivorous',
+        'imageName': 'static/images/yangchuanosaurus.jpeg'
+    },
+
+    {
+        'name': 'yimenosaurus',
+        'diet': 'herbivorous',
+        'imageName': 'static/images/yimenosaurus.png'
+    },
+
+    {
+        'name': 'yingshanosaurus',
+        'diet': 'herbivorous',
+        'imageName': 'static/images/yingshanosaurus.png'
+    },
+
+    {
+        'name': 'yinlong',
+        'diet': 'herbivorous',
+        'imageName': 'static/images/yinlong.jpeg'
+    },
+
+    {
+        'name': 'yuanmousaurus',
+        'diet': 'herbivorous',
+        'imageName': 'static/images/yuanmousaurus.png'
+    },
+
+    {
+        'name': 'yunnanosaurus',
+        'diet': 'omnivorous',
+        'imageName': 'static/images/yunnanosaurus.jpeg'
+    },
+
+    {
+        'name': 'zalmoxes',
+        'diet': 'herbivorous',
+        'imageName': 'static/images/zalmoxes.png'
+    },
+
+    {
+        'name': 'zephyrosaurus',
+        'diet': 'herbivorous',
+        'imageName': 'static/images/zephyrosaurus.jpeg'
+    },
+
+    {
+        'name': 'zuniceratops',
+        'diet': 'herbivorous',
+        'imageName': 'static/images/zuniceratops.jpeg'
     }
 ]
