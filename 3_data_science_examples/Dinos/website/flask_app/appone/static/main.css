@@ -23,3 +23,12 @@ body {
   .bg-steel {
     background-color: #5f788a;
   }
+
+  .nav-pills .nav-link.active {
+    background-color: #04AA6D;
+}
+
+.btn-green {
+  background-color: #04AA6D;
+  color: #eef6ec;
+}
