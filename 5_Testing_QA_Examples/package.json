@@ -1,0 +1,22 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "package files",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "AWhelan33"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "amii whelan",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.6.0",
+    "typescript": "^4.7.4"
+  }
+}
