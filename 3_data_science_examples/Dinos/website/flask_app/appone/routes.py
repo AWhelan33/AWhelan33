@@ -40,3 +40,8 @@ def likedDinosaur():
     db.session.add(likedDino)
     db.session.commit()
     return render_template('thankYou.html', selectedDinosaur=selectedDinosaur)
+
+@app.route('/support')
+def support():
+    return render_template('support.html')
+

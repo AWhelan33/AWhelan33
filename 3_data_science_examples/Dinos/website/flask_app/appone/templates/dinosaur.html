@@ -15,6 +15,7 @@
             <div class="card mx-auto d-block" style="break-inside: avoid;">
                 <img src="{{ item.imageName }}" alt={{ item.name }} class="img-thumbnail mx-auto d-block" style="height: 20vh; width:40vh;">
                 <div class="card-body text-center">
+                    <h5>Find out more about this dinosaur <a href={{ item.link }}>here</a></h5>
                     <form action="{{ url_for('likedDinosaur') }}" method="post">
                         <input type="submit" value={{ item.name }} class="btn btn-success" name='dinosaur'>
                     </form>
@@ -26,6 +27,7 @@
                         <div class="card mx-auto d-block" style="break-inside: avoid;">
                             <img src="{{ dinosaur.imageName }}" alt={{ dinosaur.name }} class="img-thumbnail mx-auto d-block" style="height: 20vh; width:40vh;">
                             <div class="card-body text-center">
+                                <h5>Find out more about this dinosaur <a href={{ dinosaur.link }}>here</a></h5>
                                 <form action="{{ url_for('likedDinosaur') }}" method="post">
                                     <input type="submit" value={{ dinosaur.name }} class="btn btn-success" name='dinosaur'>
                                 </form>
